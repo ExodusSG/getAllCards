@@ -1,0 +1,16 @@
+# application key
+appKey: "49f361ae9ac93c32d215806b74378d61"
+
+#oauth Token
+oauthToken: "9de36315b2d22b32f5648eb000d483e31a4dd033235e9582d5dc5f8f9ce7ceea"
+
+# mongodb url
+mongodburl: "mongodb://localhost:27017/trellodemo"
+# The default table "data" looks like below
+
+
+# { _id  :...,
+#	srcID:...,
+#   dupID:...,
+#   lastUpdatingTime:...}
+#

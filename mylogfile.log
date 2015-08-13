@@ -1,0 +1,1705 @@
+{"level":"debug","message":"count:  120","timestamp":"2015-07-09T15:28:51.285Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-07-09T15:38:51.555Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-09T15:41:16.916Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-09T15:41:16.917Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-07-09T15:48:51.836Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-07-09T15:58:52.103Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-07-09T16:08:52.379Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-07-09T16:18:52.644Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-07-09T16:28:52.922Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-07-09T16:38:53.187Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-07-09T16:48:53.427Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-07-09T16:58:53.682Z"}
+{"level":"debug","message":"count:  1320","timestamp":"2015-07-09T17:08:53.979Z"}
+{"level":"debug","message":"count:  1440","timestamp":"2015-07-09T17:18:54.245Z"}
+{"level":"debug","message":"count:  1560","timestamp":"2015-07-09T17:28:54.498Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-09T17:32:20.362Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-09T17:32:20.362Z"}
+{"level":"debug","message":"count:  1680","timestamp":"2015-07-09T17:38:54.723Z"}
+{"level":"debug","message":"count:  1800","timestamp":"2015-07-09T17:48:55.008Z"}
+{"level":"debug","message":"count:  1920","timestamp":"2015-07-09T17:58:55.295Z"}
+{"level":"debug","message":"count:  2040","timestamp":"2015-07-09T18:08:55.575Z"}
+{"level":"debug","message":"count:  2160","timestamp":"2015-07-09T18:18:55.821Z"}
+{"level":"debug","message":"count:  2280","timestamp":"2015-07-09T18:28:56.088Z"}
+{"level":"debug","message":"count:  2400","timestamp":"2015-07-09T18:38:56.302Z"}
+{"level":"debug","message":"count:  2520","timestamp":"2015-07-09T18:48:56.571Z"}
+{"level":"debug","message":"count:  2640","timestamp":"2015-07-09T18:58:56.830Z"}
+{"level":"debug","message":"count:  2760","timestamp":"2015-07-09T19:08:57.125Z"}
+{"level":"debug","message":"count:  2880","timestamp":"2015-07-09T19:18:57.392Z"}
+{"level":"debug","message":"count:  3000","timestamp":"2015-07-09T19:28:57.642Z"}
+{"level":"debug","message":"count:  3120","timestamp":"2015-07-09T19:38:57.911Z"}
+{"level":"debug","message":"count:  3240","timestamp":"2015-07-09T19:48:58.179Z"}
+{"level":"debug","message":"count:  3360","timestamp":"2015-07-09T19:58:58.454Z"}
+{"level":"debug","message":"count:  3480","timestamp":"2015-07-09T20:08:58.692Z"}
+{"level":"debug","message":"count:  3600","timestamp":"2015-07-09T20:18:58.934Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-09T20:24:39.834Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-09T20:24:39.834Z"}
+{"level":"debug","message":"count:  3720","timestamp":"2015-07-09T20:28:59.204Z"}
+{"level":"debug","message":"count:  3840","timestamp":"2015-07-09T20:38:59.471Z"}
+{"level":"debug","message":"count:  3960","timestamp":"2015-07-09T20:48:59.743Z"}
+{"level":"debug","message":"count:  4080","timestamp":"2015-07-09T20:59:00.003Z"}
+{"level":"debug","message":"count:  4200","timestamp":"2015-07-09T21:09:00.216Z"}
+{"level":"debug","message":"count:  4320","timestamp":"2015-07-09T21:19:00.462Z"}
+{"level":"debug","message":"count:  4440","timestamp":"2015-07-09T21:29:00.675Z"}
+{"level":"debug","message":"count:  4560","timestamp":"2015-07-09T21:39:00.955Z"}
+{"level":"debug","message":"count:  4680","timestamp":"2015-07-09T21:49:01.219Z"}
+{"level":"debug","message":"count:  4800","timestamp":"2015-07-09T21:59:01.489Z"}
+{"level":"debug","message":"count:  4920","timestamp":"2015-07-09T22:09:01.751Z"}
+{"level":"debug","message":"count:  5040","timestamp":"2015-07-09T22:19:01.997Z"}
+{"level":"debug","message":"count:  5160","timestamp":"2015-07-09T22:29:02.230Z"}
+{"level":"debug","message":"count:  5280","timestamp":"2015-07-09T22:39:02.485Z"}
+{"level":"debug","message":"count:  5400","timestamp":"2015-07-09T22:49:02.752Z"}
+{"level":"debug","message":"count:  5520","timestamp":"2015-07-09T22:59:03.047Z"}
+{"level":"debug","message":"count:  5640","timestamp":"2015-07-09T23:09:03.312Z"}
+{"level":"debug","message":"count:  5760","timestamp":"2015-07-09T23:19:03.549Z"}
+{"level":"debug","message":"count:  5880","timestamp":"2015-07-09T23:29:03.816Z"}
+{"level":"debug","message":"count:  6000","timestamp":"2015-07-09T23:39:04.114Z"}
+{"level":"debug","message":"count:  6120","timestamp":"2015-07-09T23:49:04.380Z"}
+{"level":"debug","message":"count:  6240","timestamp":"2015-07-09T23:59:04.675Z"}
+{"level":"debug","message":"count:  6360","timestamp":"2015-07-10T00:09:04.948Z"}
+{"level":"debug","message":"count:  6480","timestamp":"2015-07-10T00:19:05.210Z"}
+{"level":"debug","message":"count:  6600","timestamp":"2015-07-10T00:29:05.481Z"}
+{"level":"debug","message":"count:  6720","timestamp":"2015-07-10T00:39:05.750Z"}
+{"level":"debug","message":"count:  6840","timestamp":"2015-07-10T00:49:06.030Z"}
+{"level":"debug","message":"count:  6960","timestamp":"2015-07-10T00:59:06.309Z"}
+{"level":"debug","message":"count:  7080","timestamp":"2015-07-10T01:09:06.558Z"}
+{"level":"debug","message":"count:  7200","timestamp":"2015-07-10T01:19:06.803Z"}
+{"level":"debug","message":"count:  7320","timestamp":"2015-07-10T01:29:07.080Z"}
+{"level":"debug","message":"count:  7440","timestamp":"2015-07-10T01:39:07.345Z"}
+{"level":"debug","message":"count:  7560","timestamp":"2015-07-10T01:49:07.628Z"}
+{"level":"debug","message":"count:  7680","timestamp":"2015-07-10T01:59:07.860Z"}
+{"level":"debug","message":"count:  7800","timestamp":"2015-07-10T02:09:08.091Z"}
+{"level":"debug","message":"count:  7920","timestamp":"2015-07-10T02:19:08.339Z"}
+{"level":"debug","message":"count:  8040","timestamp":"2015-07-10T02:29:08.622Z"}
+{"level":"debug","message":"count:  8160","timestamp":"2015-07-10T02:39:08.914Z"}
+{"level":"debug","message":"count:  8280","timestamp":"2015-07-10T02:49:09.196Z"}
+{"level":"debug","message":"count:  8400","timestamp":"2015-07-10T02:59:09.461Z"}
+{"level":"debug","message":"count:  8520","timestamp":"2015-07-10T03:09:09.716Z"}
+{"level":"debug","message":"count:  8640","timestamp":"2015-07-10T03:19:09.985Z"}
+{"level":"debug","message":"count:  8760","timestamp":"2015-07-10T03:29:10.236Z"}
+{"level":"debug","message":"count:  8880","timestamp":"2015-07-10T03:39:10.525Z"}
+{"level":"debug","message":"count:  9000","timestamp":"2015-07-10T03:49:10.788Z"}
+{"level":"debug","message":"count:  9120","timestamp":"2015-07-10T03:59:11.078Z"}
+{"level":"debug","message":"count:  9240","timestamp":"2015-07-10T04:09:11.342Z"}
+{"level":"debug","message":"count:  9360","timestamp":"2015-07-10T04:19:11.622Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-10T04:23:47.111Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-10T04:23:47.111Z"}
+{"level":"debug","message":"count:  9480","timestamp":"2015-07-10T04:29:11.892Z"}
+{"level":"debug","message":"count:  9600","timestamp":"2015-07-10T04:39:12.168Z"}
+{"level":"debug","message":"count:  9720","timestamp":"2015-07-10T04:49:12.431Z"}
+{"level":"debug","message":"count:  9840","timestamp":"2015-07-10T04:59:12.708Z"}
+{"level":"debug","message":"count:  9960","timestamp":"2015-07-10T05:09:12.971Z"}
+{"level":"debug","message":"count:  10080","timestamp":"2015-07-10T05:19:13.269Z"}
+{"level":"debug","message":"count:  10200","timestamp":"2015-07-10T05:29:13.531Z"}
+{"level":"debug","message":"count:  10320","timestamp":"2015-07-10T05:39:13.801Z"}
+{"level":"debug","message":"count:  10440","timestamp":"2015-07-10T05:49:14.073Z"}
+{"level":"debug","message":"count:  10560","timestamp":"2015-07-10T05:59:14.332Z"}
+{"level":"debug","message":"count:  10680","timestamp":"2015-07-10T06:09:14.592Z"}
+{"level":"debug","message":"count:  10800","timestamp":"2015-07-10T06:19:14.876Z"}
+{"level":"debug","message":"count:  10920","timestamp":"2015-07-10T06:29:15.116Z"}
+{"level":"debug","message":"count:  11040","timestamp":"2015-07-10T06:39:15.404Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-10T06:41:10.759Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-10T06:41:10.759Z"}
+{"level":"debug","message":"count:  11160","timestamp":"2015-07-10T06:49:15.688Z"}
+{"level":"debug","message":"count:  11280","timestamp":"2015-07-10T06:59:15.970Z"}
+{"level":"debug","message":"count:  11400","timestamp":"2015-07-10T07:09:16.237Z"}
+{"level":"debug","message":"count:  11520","timestamp":"2015-07-10T07:19:16.489Z"}
+{"level":"debug","message":"count:  11640","timestamp":"2015-07-10T07:29:16.757Z"}
+{"level":"debug","message":"count:  11760","timestamp":"2015-07-10T07:39:17.048Z"}
+{"level":"debug","message":"count:  11880","timestamp":"2015-07-10T07:49:17.324Z"}
+{"level":"debug","message":"count:  12000","timestamp":"2015-07-10T07:59:17.586Z"}
+{"level":"debug","message":"count:  12120","timestamp":"2015-07-10T08:09:17.816Z"}
+{"level":"debug","message":"count:  12240","timestamp":"2015-07-10T08:19:18.067Z"}
+{"level":"debug","message":"count:  12360","timestamp":"2015-07-10T08:29:18.323Z"}
+{"level":"debug","message":"count:  12480","timestamp":"2015-07-10T08:39:18.596Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-10T08:40:28.971Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-10T08:40:28.971Z"}
+{"level":"debug","message":"count:  12600","timestamp":"2015-07-10T08:49:18.881Z"}
+{"level":"debug","message":"count:  12720","timestamp":"2015-07-10T08:59:19.161Z"}
+{"level":"debug","message":"count:  12840","timestamp":"2015-07-10T09:09:19.393Z"}
+{"level":"debug","message":"count:  12960","timestamp":"2015-07-10T09:19:19.642Z"}
+{"level":"debug","message":"count:  13080","timestamp":"2015-07-10T09:29:19.876Z"}
+{"level":"debug","message":"count:  13200","timestamp":"2015-07-10T09:39:20.146Z"}
+{"level":"debug","message":"count:  13320","timestamp":"2015-07-10T09:49:20.411Z"}
+{"level":"debug","message":"count:  13440","timestamp":"2015-07-10T09:59:20.684Z"}
+{"level":"debug","message":"count:  13560","timestamp":"2015-07-10T10:09:20.944Z"}
+{"level":"debug","message":"count:  13680","timestamp":"2015-07-10T10:19:21.198Z"}
+{"level":"debug","message":"count:  13800","timestamp":"2015-07-10T10:29:21.455Z"}
+{"level":"debug","message":"count:  13920","timestamp":"2015-07-10T10:39:21.741Z"}
+{"level":"debug","message":"count:  14040","timestamp":"2015-07-10T10:49:22.018Z"}
+{"level":"debug","message":"count:  14160","timestamp":"2015-07-10T10:59:22.256Z"}
+{"level":"debug","message":"count:  14280","timestamp":"2015-07-10T11:09:22.514Z"}
+{"level":"debug","message":"count:  14400","timestamp":"2015-07-10T11:19:22.770Z"}
+{"level":"debug","message":"count:  14520","timestamp":"2015-07-10T11:29:23.054Z"}
+{"level":"debug","message":"count:  14640","timestamp":"2015-07-10T11:39:23.323Z"}
+{"level":"debug","message":"count:  14760","timestamp":"2015-07-10T11:49:23.598Z"}
+{"level":"debug","message":"count:  14880","timestamp":"2015-07-10T11:59:23.855Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-10T12:02:14.223Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-10T12:02:14.224Z"}
+{"level":"debug","message":"count:  15000","timestamp":"2015-07-10T12:09:24.103Z"}
+{"level":"debug","message":"count:  15120","timestamp":"2015-07-10T12:19:24.361Z"}
+{"level":"debug","message":"count:  15240","timestamp":"2015-07-10T12:29:24.628Z"}
+{"level":"debug","message":"count:  15360","timestamp":"2015-07-10T12:39:24.899Z"}
+{"level":"debug","message":"count:  15480","timestamp":"2015-07-10T12:49:25.145Z"}
+{"level":"debug","message":"count:  15600","timestamp":"2015-07-10T12:59:25.416Z"}
+{"level":"debug","message":"count:  15720","timestamp":"2015-07-10T13:09:25.666Z"}
+{"level":"debug","message":"count:  15840","timestamp":"2015-07-10T13:19:25.924Z"}
+{"level":"debug","message":"count:  15960","timestamp":"2015-07-10T13:29:26.183Z"}
+{"level":"debug","message":"count:  16080","timestamp":"2015-07-10T13:39:26.451Z"}
+{"level":"debug","message":"count:  16200","timestamp":"2015-07-10T13:49:26.729Z"}
+{"level":"debug","message":"count:  16320","timestamp":"2015-07-10T13:59:26.986Z"}
+{"level":"debug","message":"count:  16440","timestamp":"2015-07-10T14:09:27.242Z"}
+{"level":"debug","message":"count:  16560","timestamp":"2015-07-10T14:19:27.496Z"}
+{"level":"debug","message":"count:  16680","timestamp":"2015-07-10T14:29:27.759Z"}
+{"level":"debug","message":"count:  16800","timestamp":"2015-07-10T14:39:28.041Z"}
+{"level":"debug","message":"count:  16920","timestamp":"2015-07-10T14:49:28.288Z"}
+{"level":"debug","message":"count:  17040","timestamp":"2015-07-10T14:59:28.567Z"}
+{"level":"debug","message":"count:  17160","timestamp":"2015-07-10T15:09:28.833Z"}
+{"level":"debug","message":"count:  17280","timestamp":"2015-07-10T15:19:29.096Z"}
+{"level":"debug","message":"count:  17400","timestamp":"2015-07-10T15:29:29.362Z"}
+{"level":"debug","message":"count:  17520","timestamp":"2015-07-10T15:39:29.623Z"}
+{"level":"debug","message":"count:  17640","timestamp":"2015-07-10T15:49:29.853Z"}
+{"level":"debug","message":"count:  17760","timestamp":"2015-07-10T15:59:30.107Z"}
+{"level":"debug","message":"count:  17880","timestamp":"2015-07-10T16:09:30.397Z"}
+{"level":"debug","message":"count:  18000","timestamp":"2015-07-10T16:19:30.677Z"}
+{"level":"debug","message":"count:  18120","timestamp":"2015-07-10T16:29:30.944Z"}
+{"level":"debug","message":"count:  18240","timestamp":"2015-07-10T16:39:31.156Z"}
+{"level":"debug","message":"count:  18360","timestamp":"2015-07-10T16:49:31.377Z"}
+{"level":"debug","message":"count:  18480","timestamp":"2015-07-10T16:59:31.650Z"}
+{"level":"debug","message":"count:  18600","timestamp":"2015-07-10T17:09:31.935Z"}
+{"level":"debug","message":"count:  18720","timestamp":"2015-07-10T17:19:32.199Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-10T17:29:27.164Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-10T17:29:27.164Z"}
+{"level":"debug","message":"count:  18840","timestamp":"2015-07-10T17:29:32.464Z"}
+{"level":"debug","message":"count:  18960","timestamp":"2015-07-10T17:39:32.729Z"}
+{"level":"debug","message":"count:  19080","timestamp":"2015-07-10T17:49:32.980Z"}
+{"level":"debug","message":"count:  19200","timestamp":"2015-07-10T17:59:33.276Z"}
+{"level":"debug","message":"count:  19320","timestamp":"2015-07-10T18:09:33.559Z"}
+{"level":"debug","message":"count:  19440","timestamp":"2015-07-10T18:19:33.818Z"}
+{"level":"debug","message":"count:  19560","timestamp":"2015-07-10T18:29:34.072Z"}
+{"level":"debug","message":"count:  19680","timestamp":"2015-07-10T18:39:34.361Z"}
+{"level":"debug","message":"count:  19800","timestamp":"2015-07-10T18:49:34.629Z"}
+{"level":"debug","message":"count:  19920","timestamp":"2015-07-10T18:59:34.910Z"}
+{"level":"debug","message":"count:  20040","timestamp":"2015-07-10T19:09:35.172Z"}
+{"level":"debug","message":"count:  20160","timestamp":"2015-07-10T19:19:35.435Z"}
+{"level":"debug","message":"count:  20280","timestamp":"2015-07-10T19:29:35.691Z"}
+{"level":"debug","message":"count:  20400","timestamp":"2015-07-10T19:39:35.892Z"}
+{"level":"debug","message":"count:  20520","timestamp":"2015-07-10T19:49:36.093Z"}
+{"level":"debug","message":"count:  20640","timestamp":"2015-07-10T19:59:36.342Z"}
+{"level":"debug","message":"count:  20760","timestamp":"2015-07-10T20:09:36.600Z"}
+{"level":"debug","message":"count:  20880","timestamp":"2015-07-10T20:19:36.873Z"}
+{"level":"debug","message":"count:  21000","timestamp":"2015-07-10T20:29:37.136Z"}
+{"level":"debug","message":"count:  21120","timestamp":"2015-07-10T20:39:37.420Z"}
+{"level":"debug","message":"count:  21240","timestamp":"2015-07-10T20:49:37.667Z"}
+{"level":"debug","message":"count:  21360","timestamp":"2015-07-10T20:59:37.933Z"}
+{"level":"debug","message":"count:  21480","timestamp":"2015-07-10T21:09:38.226Z"}
+{"level":"debug","message":"count:  21600","timestamp":"2015-07-10T21:19:38.466Z"}
+{"level":"debug","message":"count:  21720","timestamp":"2015-07-10T21:29:38.750Z"}
+{"level":"debug","message":"count:  21840","timestamp":"2015-07-10T21:39:39.006Z"}
+{"level":"debug","message":"count:  21960","timestamp":"2015-07-10T21:49:39.283Z"}
+{"level":"debug","message":"count:  22080","timestamp":"2015-07-10T21:59:39.563Z"}
+{"level":"debug","message":"count:  22200","timestamp":"2015-07-10T22:09:39.835Z"}
+{"level":"debug","message":"count:  22320","timestamp":"2015-07-10T22:19:40.084Z"}
+{"level":"debug","message":"count:  22440","timestamp":"2015-07-10T22:29:40.343Z"}
+{"level":"debug","message":"count:  22560","timestamp":"2015-07-10T22:39:40.619Z"}
+{"level":"debug","message":"count:  22680","timestamp":"2015-07-10T22:49:40.885Z"}
+{"level":"debug","message":"count:  22800","timestamp":"2015-07-10T22:59:41.158Z"}
+{"level":"debug","message":"count:  22920","timestamp":"2015-07-10T23:09:41.417Z"}
+{"level":"debug","message":"count:  23040","timestamp":"2015-07-10T23:19:41.669Z"}
+{"level":"debug","message":"count:  23160","timestamp":"2015-07-10T23:29:41.912Z"}
+{"level":"debug","message":"count:  23280","timestamp":"2015-07-10T23:39:42.194Z"}
+{"level":"debug","message":"count:  23400","timestamp":"2015-07-10T23:49:42.477Z"}
+{"level":"debug","message":"count:  23520","timestamp":"2015-07-10T23:59:42.760Z"}
+{"level":"debug","message":"count:  23640","timestamp":"2015-07-11T00:09:43.038Z"}
+{"level":"debug","message":"count:  23760","timestamp":"2015-07-11T00:19:43.287Z"}
+{"level":"debug","message":"count:  23880","timestamp":"2015-07-11T00:29:43.581Z"}
+{"level":"debug","message":"count:  24000","timestamp":"2015-07-11T00:39:43.872Z"}
+{"level":"debug","message":"count:  24120","timestamp":"2015-07-11T00:49:44.141Z"}
+{"level":"debug","message":"count:  24240","timestamp":"2015-07-11T00:59:44.366Z"}
+{"level":"debug","message":"count:  24360","timestamp":"2015-07-11T01:09:44.633Z"}
+{"level":"debug","message":"count:  24480","timestamp":"2015-07-11T01:19:44.918Z"}
+{"level":"debug","message":"count:  24600","timestamp":"2015-07-11T01:29:45.196Z"}
+{"level":"debug","message":"count:  24720","timestamp":"2015-07-11T01:39:45.468Z"}
+{"level":"debug","message":"count:  24840","timestamp":"2015-07-11T01:49:45.740Z"}
+{"level":"debug","message":"count:  24960","timestamp":"2015-07-11T01:59:45.976Z"}
+{"level":"debug","message":"count:  25080","timestamp":"2015-07-11T02:09:46.224Z"}
+{"level":"debug","message":"count:  25200","timestamp":"2015-07-11T02:19:46.492Z"}
+{"level":"debug","message":"count:  25320","timestamp":"2015-07-11T02:29:46.771Z"}
+{"level":"debug","message":"count:  25440","timestamp":"2015-07-11T02:39:47.038Z"}
+{"level":"debug","message":"count:  25560","timestamp":"2015-07-11T02:49:47.304Z"}
+{"level":"debug","message":"count:  25680","timestamp":"2015-07-11T02:59:47.555Z"}
+{"level":"debug","message":"count:  25800","timestamp":"2015-07-11T03:09:47.824Z"}
+{"level":"debug","message":"count:  25920","timestamp":"2015-07-11T03:19:48.117Z"}
+{"level":"debug","message":"count:  26040","timestamp":"2015-07-11T03:29:48.394Z"}
+{"level":"debug","message":"count:  26160","timestamp":"2015-07-11T03:39:48.672Z"}
+{"level":"debug","message":"count:  26280","timestamp":"2015-07-11T03:49:48.928Z"}
+{"level":"debug","message":"count:  26400","timestamp":"2015-07-11T03:59:49.212Z"}
+{"level":"debug","message":"count:  26520","timestamp":"2015-07-11T04:09:49.495Z"}
+{"level":"debug","message":"count:  26640","timestamp":"2015-07-11T04:19:49.770Z"}
+{"level":"debug","message":"count:  26760","timestamp":"2015-07-11T04:29:50.035Z"}
+{"level":"debug","message":"count:  26880","timestamp":"2015-07-11T04:39:50.313Z"}
+{"level":"debug","message":"count:  27000","timestamp":"2015-07-11T04:49:50.581Z"}
+{"level":"debug","message":"count:  27120","timestamp":"2015-07-11T04:59:50.861Z"}
+{"level":"debug","message":"count:  27240","timestamp":"2015-07-11T05:09:51.144Z"}
+{"level":"debug","message":"count:  27360","timestamp":"2015-07-11T05:19:51.411Z"}
+{"level":"debug","message":"count:  27480","timestamp":"2015-07-11T05:29:51.644Z"}
+{"level":"debug","message":"count:  27600","timestamp":"2015-07-11T05:39:51.889Z"}
+{"level":"debug","message":"count:  27720","timestamp":"2015-07-11T05:49:52.157Z"}
+{"level":"debug","message":"count:  27840","timestamp":"2015-07-11T05:59:52.434Z"}
+{"level":"debug","message":"count:  27960","timestamp":"2015-07-11T06:09:52.726Z"}
+{"level":"debug","message":"count:  28080","timestamp":"2015-07-11T06:19:52.992Z"}
+{"level":"debug","message":"count:  28200","timestamp":"2015-07-11T06:29:53.280Z"}
+{"level":"debug","message":"count:  28320","timestamp":"2015-07-11T06:39:53.554Z"}
+{"level":"debug","message":"count:  28440","timestamp":"2015-07-11T06:49:53.826Z"}
+{"level":"debug","message":"count:  28560","timestamp":"2015-07-11T06:59:54.120Z"}
+{"level":"debug","message":"count:  28680","timestamp":"2015-07-11T07:09:54.413Z"}
+{"level":"debug","message":"count:  28800","timestamp":"2015-07-11T07:19:54.663Z"}
+{"level":"debug","message":"count:  28920","timestamp":"2015-07-11T07:29:54.943Z"}
+{"level":"debug","message":"count:  29040","timestamp":"2015-07-11T07:39:55.218Z"}
+{"level":"debug","message":"count:  29160","timestamp":"2015-07-11T07:49:55.495Z"}
+{"level":"debug","message":"count:  29280","timestamp":"2015-07-11T07:59:55.739Z"}
+{"level":"debug","message":"count:  29400","timestamp":"2015-07-11T08:09:55.993Z"}
+{"level":"debug","message":"count:  29520","timestamp":"2015-07-11T08:19:56.253Z"}
+{"level":"debug","message":"count:  29640","timestamp":"2015-07-11T08:29:56.503Z"}
+{"level":"debug","message":"count:  29760","timestamp":"2015-07-11T08:39:56.786Z"}
+{"level":"debug","message":"count:  29880","timestamp":"2015-07-11T08:49:57.090Z"}
+{"level":"debug","message":"count:  30000","timestamp":"2015-07-11T08:59:57.364Z"}
+{"level":"debug","message":"count:  30120","timestamp":"2015-07-11T09:09:57.596Z"}
+{"level":"debug","message":"count:  30240","timestamp":"2015-07-11T09:19:57.883Z"}
+{"level":"debug","message":"count:  30360","timestamp":"2015-07-11T09:29:58.179Z"}
+{"level":"debug","message":"count:  30480","timestamp":"2015-07-11T09:39:58.434Z"}
+{"level":"debug","message":"count:  30600","timestamp":"2015-07-11T09:49:58.705Z"}
+{"level":"debug","message":"count:  30720","timestamp":"2015-07-11T09:59:58.971Z"}
+{"level":"debug","message":"count:  30840","timestamp":"2015-07-11T10:09:59.210Z"}
+{"level":"debug","message":"count:  30960","timestamp":"2015-07-11T10:19:59.464Z"}
+{"level":"debug","message":"count:  31080","timestamp":"2015-07-11T10:29:59.734Z"}
+{"level":"debug","message":"count:  31200","timestamp":"2015-07-11T10:40:00.000Z"}
+{"level":"debug","message":"count:  31320","timestamp":"2015-07-11T10:50:00.260Z"}
+{"level":"debug","message":"count:  31440","timestamp":"2015-07-11T11:00:00.501Z"}
+{"level":"debug","message":"count:  31560","timestamp":"2015-07-11T11:10:00.749Z"}
+{"level":"debug","message":"count:  31680","timestamp":"2015-07-11T11:20:01.034Z"}
+{"level":"debug","message":"count:  31800","timestamp":"2015-07-11T11:30:01.310Z"}
+{"level":"debug","message":"count:  31920","timestamp":"2015-07-11T11:40:01.583Z"}
+{"level":"debug","message":"count:  32040","timestamp":"2015-07-11T11:50:01.871Z"}
+{"level":"debug","message":"count:  32160","timestamp":"2015-07-11T12:00:02.142Z"}
+{"level":"debug","message":"count:  32280","timestamp":"2015-07-11T12:10:02.407Z"}
+{"level":"debug","message":"count:  32400","timestamp":"2015-07-11T12:20:02.701Z"}
+{"level":"debug","message":"count:  32520","timestamp":"2015-07-11T12:30:02.971Z"}
+{"level":"debug","message":"count:  32640","timestamp":"2015-07-11T12:40:03.207Z"}
+{"level":"debug","message":"count:  32760","timestamp":"2015-07-11T12:50:03.426Z"}
+{"level":"debug","message":"count:  32880","timestamp":"2015-07-11T13:00:03.661Z"}
+{"level":"debug","message":"count:  33000","timestamp":"2015-07-11T13:10:03.950Z"}
+{"level":"debug","message":"count:  33120","timestamp":"2015-07-11T13:20:04.237Z"}
+{"level":"debug","message":"count:  33240","timestamp":"2015-07-11T13:30:04.535Z"}
+{"level":"debug","message":"count:  33360","timestamp":"2015-07-11T13:40:04.807Z"}
+{"level":"debug","message":"count:  33480","timestamp":"2015-07-11T13:50:05.083Z"}
+{"level":"debug","message":"count:  33600","timestamp":"2015-07-11T14:00:05.350Z"}
+{"level":"debug","message":"count:  33720","timestamp":"2015-07-11T14:10:05.644Z"}
+{"level":"debug","message":"count:  33840","timestamp":"2015-07-11T14:20:05.888Z"}
+{"level":"debug","message":"count:  33960","timestamp":"2015-07-11T14:30:06.158Z"}
+{"level":"debug","message":"count:  34080","timestamp":"2015-07-11T14:40:06.452Z"}
+{"level":"debug","message":"count:  34200","timestamp":"2015-07-11T14:50:06.734Z"}
+{"level":"debug","message":"count:  34320","timestamp":"2015-07-11T15:00:06.996Z"}
+{"level":"debug","message":"count:  34440","timestamp":"2015-07-11T15:10:07.256Z"}
+{"level":"debug","message":"count:  34560","timestamp":"2015-07-11T15:20:07.511Z"}
+{"level":"debug","message":"count:  34680","timestamp":"2015-07-11T15:30:07.794Z"}
+{"level":"debug","message":"count:  34800","timestamp":"2015-07-11T15:40:08.068Z"}
+{"level":"debug","message":"count:  34920","timestamp":"2015-07-11T15:50:08.350Z"}
+{"level":"debug","message":"count:  35040","timestamp":"2015-07-11T16:00:08.628Z"}
+{"level":"debug","message":"count:  35160","timestamp":"2015-07-11T16:10:08.849Z"}
+{"level":"debug","message":"count:  35280","timestamp":"2015-07-11T16:20:09.107Z"}
+{"level":"debug","message":"count:  35400","timestamp":"2015-07-11T16:30:09.353Z"}
+{"level":"debug","message":"count:  35520","timestamp":"2015-07-11T16:40:09.620Z"}
+{"level":"debug","message":"count:  35640","timestamp":"2015-07-11T16:50:09.889Z"}
+{"level":"debug","message":"count:  35760","timestamp":"2015-07-11T17:00:10.179Z"}
+{"level":"debug","message":"count:  35880","timestamp":"2015-07-11T17:10:10.446Z"}
+{"level":"debug","message":"count:  36000","timestamp":"2015-07-11T17:20:10.716Z"}
+{"level":"debug","message":"count:  36120","timestamp":"2015-07-11T17:30:10.988Z"}
+{"level":"debug","message":"count:  36240","timestamp":"2015-07-11T17:40:11.262Z"}
+{"level":"debug","message":"count:  36360","timestamp":"2015-07-11T17:50:11.506Z"}
+{"level":"debug","message":"count:  36480","timestamp":"2015-07-11T18:00:11.760Z"}
+{"level":"debug","message":"count:  36600","timestamp":"2015-07-11T18:10:12.021Z"}
+{"level":"debug","message":"count:  36720","timestamp":"2015-07-11T18:20:12.288Z"}
+{"level":"debug","message":"count:  36840","timestamp":"2015-07-11T18:30:12.554Z"}
+{"level":"debug","message":"count:  36960","timestamp":"2015-07-11T18:40:12.830Z"}
+{"level":"debug","message":"count:  37080","timestamp":"2015-07-11T18:50:13.093Z"}
+{"level":"debug","message":"count:  37200","timestamp":"2015-07-11T19:00:13.344Z"}
+{"level":"debug","message":"count:  37320","timestamp":"2015-07-11T19:10:13.628Z"}
+{"level":"debug","message":"count:  37440","timestamp":"2015-07-11T19:20:13.922Z"}
+{"level":"debug","message":"count:  37560","timestamp":"2015-07-11T19:30:14.175Z"}
+{"level":"debug","message":"count:  37680","timestamp":"2015-07-11T19:40:14.443Z"}
+{"level":"debug","message":"count:  37800","timestamp":"2015-07-11T19:50:14.707Z"}
+{"level":"debug","message":"count:  37920","timestamp":"2015-07-11T20:00:14.947Z"}
+{"level":"debug","message":"count:  38040","timestamp":"2015-07-11T20:10:15.227Z"}
+{"level":"debug","message":"count:  38160","timestamp":"2015-07-11T20:20:15.487Z"}
+{"level":"debug","message":"count:  38280","timestamp":"2015-07-11T20:30:15.734Z"}
+{"level":"debug","message":"count:  38400","timestamp":"2015-07-11T20:40:16.008Z"}
+{"level":"debug","message":"count:  38520","timestamp":"2015-07-11T20:50:16.270Z"}
+{"level":"debug","message":"count:  38640","timestamp":"2015-07-11T21:00:16.558Z"}
+{"level":"debug","message":"count:  38760","timestamp":"2015-07-11T21:10:16.832Z"}
+{"level":"debug","message":"count:  38880","timestamp":"2015-07-11T21:20:17.098Z"}
+{"level":"debug","message":"count:  39000","timestamp":"2015-07-11T21:30:17.357Z"}
+{"level":"debug","message":"count:  39120","timestamp":"2015-07-11T21:40:17.632Z"}
+{"level":"debug","message":"count:  39240","timestamp":"2015-07-11T21:50:17.867Z"}
+{"level":"debug","message":"count:  39360","timestamp":"2015-07-11T22:00:18.150Z"}
+{"level":"debug","message":"count:  39480","timestamp":"2015-07-11T22:10:18.412Z"}
+{"level":"debug","message":"count:  39600","timestamp":"2015-07-11T22:20:18.684Z"}
+{"level":"debug","message":"count:  39720","timestamp":"2015-07-11T22:30:18.957Z"}
+{"level":"debug","message":"count:  39840","timestamp":"2015-07-11T22:40:19.233Z"}
+{"level":"debug","message":"count:  39960","timestamp":"2015-07-11T22:50:19.463Z"}
+{"level":"debug","message":"count:  40080","timestamp":"2015-07-11T23:00:19.732Z"}
+{"level":"debug","message":"count:  40200","timestamp":"2015-07-11T23:10:20.001Z"}
+{"level":"debug","message":"count:  40320","timestamp":"2015-07-11T23:20:20.268Z"}
+{"level":"debug","message":"count:  40440","timestamp":"2015-07-11T23:30:20.541Z"}
+{"level":"debug","message":"count:  40560","timestamp":"2015-07-11T23:40:20.816Z"}
+{"level":"debug","message":"count:  40680","timestamp":"2015-07-11T23:50:21.100Z"}
+{"level":"debug","message":"count:  40800","timestamp":"2015-07-12T00:00:21.371Z"}
+{"level":"debug","message":"count:  40920","timestamp":"2015-07-12T00:10:21.623Z"}
+{"level":"debug","message":"count:  41040","timestamp":"2015-07-12T00:20:21.898Z"}
+{"level":"debug","message":"count:  41160","timestamp":"2015-07-12T00:30:22.163Z"}
+{"level":"debug","message":"count:  41280","timestamp":"2015-07-12T00:40:22.397Z"}
+{"level":"debug","message":"count:  41400","timestamp":"2015-07-12T00:50:22.663Z"}
+{"level":"debug","message":"count:  41520","timestamp":"2015-07-12T01:00:22.940Z"}
+{"level":"debug","message":"count:  41640","timestamp":"2015-07-12T01:10:23.217Z"}
+{"level":"debug","message":"count:  41760","timestamp":"2015-07-12T01:20:23.498Z"}
+{"level":"debug","message":"count:  41880","timestamp":"2015-07-12T01:30:23.749Z"}
+{"level":"debug","message":"count:  42000","timestamp":"2015-07-12T01:40:24.018Z"}
+{"level":"debug","message":"count:  42120","timestamp":"2015-07-12T01:50:24.302Z"}
+{"level":"debug","message":"count:  42240","timestamp":"2015-07-12T02:00:24.550Z"}
+{"level":"debug","message":"count:  42360","timestamp":"2015-07-12T02:10:24.825Z"}
+{"level":"debug","message":"count:  42480","timestamp":"2015-07-12T02:20:25.103Z"}
+{"level":"debug","message":"count:  42600","timestamp":"2015-07-12T02:30:25.378Z"}
+{"level":"debug","message":"count:  42720","timestamp":"2015-07-12T02:40:25.641Z"}
+{"level":"debug","message":"count:  42840","timestamp":"2015-07-12T02:50:25.911Z"}
+{"level":"debug","message":"count:  42960","timestamp":"2015-07-12T03:00:26.161Z"}
+{"level":"debug","message":"count:  43080","timestamp":"2015-07-12T03:10:26.456Z"}
+{"level":"debug","message":"count:  43200","timestamp":"2015-07-12T03:20:26.743Z"}
+{"level":"debug","message":"count:  43320","timestamp":"2015-07-12T03:30:27.006Z"}
+{"level":"debug","message":"count:  43440","timestamp":"2015-07-12T03:40:27.259Z"}
+{"level":"debug","message":"count:  43560","timestamp":"2015-07-12T03:50:27.530Z"}
+{"level":"debug","message":"count:  43680","timestamp":"2015-07-12T04:00:27.795Z"}
+{"level":"debug","message":"count:  43800","timestamp":"2015-07-12T04:10:28.041Z"}
+{"level":"debug","message":"count:  43920","timestamp":"2015-07-12T04:20:28.305Z"}
+{"level":"debug","message":"count:  44040","timestamp":"2015-07-12T04:30:28.560Z"}
+{"level":"debug","message":"count:  44160","timestamp":"2015-07-12T04:40:28.824Z"}
+{"level":"debug","message":"count:  44280","timestamp":"2015-07-12T04:50:29.062Z"}
+{"level":"debug","message":"count:  44400","timestamp":"2015-07-12T05:00:29.350Z"}
+{"level":"debug","message":"count:  44520","timestamp":"2015-07-12T05:10:29.631Z"}
+{"level":"debug","message":"count:  44640","timestamp":"2015-07-12T05:20:29.903Z"}
+{"level":"debug","message":"count:  44760","timestamp":"2015-07-12T05:30:30.147Z"}
+{"level":"debug","message":"count:  44880","timestamp":"2015-07-12T05:40:30.400Z"}
+{"level":"debug","message":"count:  45000","timestamp":"2015-07-12T05:50:30.692Z"}
+{"level":"debug","message":"count:  45120","timestamp":"2015-07-12T06:00:30.952Z"}
+{"level":"debug","message":"count:  45240","timestamp":"2015-07-12T06:10:31.236Z"}
+{"level":"debug","message":"count:  45360","timestamp":"2015-07-12T06:20:31.491Z"}
+{"level":"debug","message":"count:  45480","timestamp":"2015-07-12T06:30:31.748Z"}
+{"level":"debug","message":"count:  45600","timestamp":"2015-07-12T06:40:31.977Z"}
+{"level":"debug","message":"count:  45720","timestamp":"2015-07-12T06:50:32.251Z"}
+{"level":"debug","message":"count:  45840","timestamp":"2015-07-12T07:00:32.548Z"}
+{"level":"debug","message":"count:  45960","timestamp":"2015-07-12T07:10:32.826Z"}
+{"level":"debug","message":"count:  46080","timestamp":"2015-07-12T07:20:33.084Z"}
+{"level":"debug","message":"count:  46200","timestamp":"2015-07-12T07:30:33.315Z"}
+{"level":"debug","message":"count:  46320","timestamp":"2015-07-12T07:40:33.597Z"}
+{"level":"debug","message":"count:  46440","timestamp":"2015-07-12T07:50:33.892Z"}
+{"level":"debug","message":"count:  46560","timestamp":"2015-07-12T08:00:34.182Z"}
+{"level":"debug","message":"count:  46680","timestamp":"2015-07-12T08:10:34.457Z"}
+{"level":"debug","message":"count:  46800","timestamp":"2015-07-12T08:20:34.699Z"}
+{"level":"debug","message":"count:  46920","timestamp":"2015-07-12T08:30:34.982Z"}
+{"level":"debug","message":"count:  47040","timestamp":"2015-07-12T08:40:35.264Z"}
+{"level":"debug","message":"count:  47160","timestamp":"2015-07-12T08:50:35.541Z"}
+{"level":"debug","message":"count:  47280","timestamp":"2015-07-12T09:00:35.825Z"}
+{"level":"debug","message":"count:  47400","timestamp":"2015-07-12T09:10:36.077Z"}
+{"level":"debug","message":"count:  47520","timestamp":"2015-07-12T09:20:36.346Z"}
+{"level":"debug","message":"count:  47640","timestamp":"2015-07-12T09:30:36.652Z"}
+{"level":"debug","message":"count:  47760","timestamp":"2015-07-12T09:40:36.924Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-12T09:40:47.225Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-12T09:40:47.225Z"}
+{"level":"debug","message":"count:  47880","timestamp":"2015-07-12T09:50:37.207Z"}
+{"level":"debug","message":"count:  48000","timestamp":"2015-07-12T10:00:37.465Z"}
+{"level":"debug","message":"count:  48120","timestamp":"2015-07-12T10:10:37.748Z"}
+{"level":"debug","message":"count:  48240","timestamp":"2015-07-12T10:20:38.036Z"}
+{"level":"debug","message":"count:  48360","timestamp":"2015-07-12T10:30:38.324Z"}
+{"level":"debug","message":"count:  48480","timestamp":"2015-07-12T10:40:38.602Z"}
+{"level":"debug","message":"count:  48600","timestamp":"2015-07-12T10:50:38.846Z"}
+{"level":"debug","message":"count:  48720","timestamp":"2015-07-12T11:00:39.121Z"}
+{"level":"debug","message":"count:  48840","timestamp":"2015-07-12T11:10:39.404Z"}
+{"level":"debug","message":"count:  48960","timestamp":"2015-07-12T11:20:39.682Z"}
+{"level":"debug","message":"count:  49080","timestamp":"2015-07-12T11:30:39.960Z"}
+{"level":"debug","message":"count:  49200","timestamp":"2015-07-12T11:40:40.225Z"}
+{"level":"debug","message":"count:  49320","timestamp":"2015-07-12T11:50:40.511Z"}
+{"level":"debug","message":"count:  49440","timestamp":"2015-07-12T12:00:40.794Z"}
+{"level":"debug","message":"count:  49560","timestamp":"2015-07-12T12:10:41.078Z"}
+{"level":"debug","message":"count:  49680","timestamp":"2015-07-12T12:20:41.363Z"}
+{"level":"debug","message":"count:  49800","timestamp":"2015-07-12T12:30:41.637Z"}
+{"level":"debug","message":"count:  49920","timestamp":"2015-07-12T12:40:41.922Z"}
+{"level":"debug","message":"count:  50040","timestamp":"2015-07-12T12:50:42.204Z"}
+{"level":"debug","message":"count:  50160","timestamp":"2015-07-12T13:00:42.482Z"}
+{"level":"debug","message":"count:  50280","timestamp":"2015-07-12T13:10:42.752Z"}
+{"level":"debug","message":"count:  50400","timestamp":"2015-07-12T13:20:43.035Z"}
+{"level":"debug","message":"count:  50520","timestamp":"2015-07-12T13:30:43.304Z"}
+{"level":"debug","message":"count:  50640","timestamp":"2015-07-12T13:40:43.570Z"}
+{"level":"debug","message":"count:  50760","timestamp":"2015-07-12T13:50:43.842Z"}
+{"level":"debug","message":"count:  50880","timestamp":"2015-07-12T14:00:44.118Z"}
+{"level":"debug","message":"count:  51000","timestamp":"2015-07-12T14:10:44.396Z"}
+{"level":"debug","message":"count:  51120","timestamp":"2015-07-12T14:20:44.678Z"}
+{"level":"debug","message":"count:  51240","timestamp":"2015-07-12T14:30:44.946Z"}
+{"level":"debug","message":"count:  51360","timestamp":"2015-07-12T14:40:45.201Z"}
+{"level":"debug","message":"count:  51480","timestamp":"2015-07-12T14:50:45.485Z"}
+{"level":"debug","message":"count:  51600","timestamp":"2015-07-12T15:00:45.773Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-12T15:01:26.100Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-12T15:01:26.100Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-12T15:01:41.105Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-12T15:01:41.105Z"}
+{"level":"debug","message":"count:  51720","timestamp":"2015-07-12T15:10:46.042Z"}
+{"level":"debug","message":"count:  51840","timestamp":"2015-07-12T15:20:46.324Z"}
+{"level":"debug","message":"count:  51960","timestamp":"2015-07-12T15:30:46.605Z"}
+{"level":"debug","message":"count:  52080","timestamp":"2015-07-12T15:40:46.871Z"}
+{"level":"debug","message":"count:  52200","timestamp":"2015-07-12T15:50:47.170Z"}
+{"level":"debug","message":"count:  52320","timestamp":"2015-07-12T16:00:47.441Z"}
+{"level":"debug","message":"count:  52440","timestamp":"2015-07-12T16:10:47.750Z"}
+{"level":"debug","message":"count:  52560","timestamp":"2015-07-12T16:20:48.034Z"}
+{"level":"debug","message":"count:  52680","timestamp":"2015-07-12T16:30:48.308Z"}
+{"level":"debug","message":"count:  52800","timestamp":"2015-07-12T16:40:48.579Z"}
+{"level":"debug","message":"count:  52920","timestamp":"2015-07-12T16:50:48.848Z"}
+{"level":"debug","message":"count:  53040","timestamp":"2015-07-12T17:00:49.125Z"}
+{"level":"debug","message":"count:  53160","timestamp":"2015-07-12T17:10:49.399Z"}
+{"level":"debug","message":"count:  53280","timestamp":"2015-07-12T17:20:49.675Z"}
+{"level":"debug","message":"count:  53400","timestamp":"2015-07-12T17:30:49.951Z"}
+{"level":"debug","message":"count:  53520","timestamp":"2015-07-12T17:40:50.222Z"}
+{"level":"debug","message":"count:  53640","timestamp":"2015-07-12T17:50:50.485Z"}
+{"level":"debug","message":"count:  53760","timestamp":"2015-07-12T18:00:50.768Z"}
+{"level":"debug","message":"count:  53880","timestamp":"2015-07-12T18:10:51.061Z"}
+{"level":"debug","message":"count:  54000","timestamp":"2015-07-12T18:20:51.315Z"}
+{"level":"debug","message":"count:  54120","timestamp":"2015-07-12T18:30:51.563Z"}
+{"level":"debug","message":"count:  54240","timestamp":"2015-07-12T18:40:51.860Z"}
+{"level":"debug","message":"count:  54360","timestamp":"2015-07-12T18:50:52.144Z"}
+{"level":"debug","message":"count:  54480","timestamp":"2015-07-12T19:00:52.430Z"}
+{"level":"debug","message":"count:  54600","timestamp":"2015-07-12T19:10:52.702Z"}
+{"level":"debug","message":"count:  54720","timestamp":"2015-07-12T19:20:52.955Z"}
+{"level":"debug","message":"count:  54840","timestamp":"2015-07-12T19:30:53.227Z"}
+{"level":"debug","message":"count:  54960","timestamp":"2015-07-12T19:40:53.486Z"}
+{"level":"debug","message":"count:  55080","timestamp":"2015-07-12T19:50:53.774Z"}
+{"level":"debug","message":"count:  55200","timestamp":"2015-07-12T20:00:54.061Z"}
+{"level":"debug","message":"count:  55320","timestamp":"2015-07-12T20:10:54.317Z"}
+{"level":"debug","message":"count:  55440","timestamp":"2015-07-12T20:20:54.588Z"}
+{"level":"debug","message":"count:  55560","timestamp":"2015-07-12T20:30:54.888Z"}
+{"level":"debug","message":"count:  55680","timestamp":"2015-07-12T20:40:55.183Z"}
+{"level":"debug","message":"count:  55800","timestamp":"2015-07-12T20:50:55.436Z"}
+{"level":"debug","message":"count:  55920","timestamp":"2015-07-12T21:00:55.695Z"}
+{"level":"debug","message":"count:  56040","timestamp":"2015-07-12T21:10:55.959Z"}
+{"level":"debug","message":"count:  56160","timestamp":"2015-07-12T21:20:56.211Z"}
+{"level":"debug","message":"count:  56280","timestamp":"2015-07-12T21:30:56.492Z"}
+{"level":"debug","message":"count:  56400","timestamp":"2015-07-12T21:40:56.755Z"}
+{"level":"debug","message":"count:  56520","timestamp":"2015-07-12T21:50:57.025Z"}
+{"level":"debug","message":"count:  56640","timestamp":"2015-07-12T22:00:57.308Z"}
+{"level":"debug","message":"count:  56760","timestamp":"2015-07-12T22:10:57.567Z"}
+{"level":"debug","message":"count:  56880","timestamp":"2015-07-12T22:20:57.815Z"}
+{"level":"debug","message":"count:  57000","timestamp":"2015-07-12T22:30:58.077Z"}
+{"level":"debug","message":"count:  57120","timestamp":"2015-07-12T22:40:58.337Z"}
+{"level":"debug","message":"count:  57240","timestamp":"2015-07-12T22:50:58.600Z"}
+{"level":"debug","message":"count:  57360","timestamp":"2015-07-12T23:00:58.855Z"}
+{"level":"debug","message":"count:  57480","timestamp":"2015-07-12T23:10:59.108Z"}
+{"level":"debug","message":"count:  57600","timestamp":"2015-07-12T23:20:59.374Z"}
+{"level":"debug","message":"count:  57720","timestamp":"2015-07-12T23:30:59.625Z"}
+{"level":"debug","message":"count:  57840","timestamp":"2015-07-12T23:40:59.891Z"}
+{"level":"debug","message":"count:  57960","timestamp":"2015-07-12T23:51:00.141Z"}
+{"level":"debug","message":"count:  58080","timestamp":"2015-07-13T00:01:00.413Z"}
+{"level":"debug","message":"count:  58200","timestamp":"2015-07-13T00:11:00.688Z"}
+{"level":"debug","message":"count:  58320","timestamp":"2015-07-13T00:21:00.949Z"}
+{"level":"debug","message":"count:  58440","timestamp":"2015-07-13T00:31:01.209Z"}
+{"level":"debug","message":"count:  58560","timestamp":"2015-07-13T00:41:01.468Z"}
+{"level":"debug","message":"count:  58680","timestamp":"2015-07-13T00:51:01.726Z"}
+{"level":"debug","message":"count:  58800","timestamp":"2015-07-13T01:01:02.002Z"}
+{"level":"debug","message":"count:  58920","timestamp":"2015-07-13T01:11:02.248Z"}
+{"level":"debug","message":"count:  59040","timestamp":"2015-07-13T01:21:02.525Z"}
+{"level":"debug","message":"count:  59160","timestamp":"2015-07-13T01:31:02.789Z"}
+{"level":"debug","message":"count:  59280","timestamp":"2015-07-13T01:41:03.028Z"}
+{"level":"debug","message":"count:  59400","timestamp":"2015-07-13T01:51:03.300Z"}
+{"level":"debug","message":"count:  59520","timestamp":"2015-07-13T02:01:03.588Z"}
+{"level":"debug","message":"count:  59640","timestamp":"2015-07-13T02:11:03.886Z"}
+{"level":"debug","message":"count:  59760","timestamp":"2015-07-13T02:21:04.151Z"}
+{"level":"debug","message":"count:  59880","timestamp":"2015-07-13T02:31:04.408Z"}
+{"level":"debug","message":"count:  60000","timestamp":"2015-07-13T02:41:04.673Z"}
+{"level":"debug","message":"count:  60120","timestamp":"2015-07-13T02:51:04.949Z"}
+{"level":"debug","message":"count:  60240","timestamp":"2015-07-13T03:01:05.241Z"}
+{"level":"debug","message":"count:  60360","timestamp":"2015-07-13T03:11:05.508Z"}
+{"level":"debug","message":"count:  60480","timestamp":"2015-07-13T03:21:05.790Z"}
+{"level":"debug","message":"count:  60600","timestamp":"2015-07-13T03:31:06.037Z"}
+{"level":"debug","message":"count:  60720","timestamp":"2015-07-13T03:41:06.304Z"}
+{"level":"debug","message":"count:  60840","timestamp":"2015-07-13T03:51:06.579Z"}
+{"level":"debug","message":"count:  60960","timestamp":"2015-07-13T04:01:06.847Z"}
+{"level":"debug","message":"count:  61080","timestamp":"2015-07-13T04:11:07.074Z"}
+{"level":"debug","message":"count:  61200","timestamp":"2015-07-13T04:21:07.338Z"}
+{"level":"debug","message":"count:  61320","timestamp":"2015-07-13T04:31:07.592Z"}
+{"level":"debug","message":"count:  61440","timestamp":"2015-07-13T04:41:07.848Z"}
+{"level":"debug","message":"count:  61560","timestamp":"2015-07-13T04:51:08.108Z"}
+{"level":"debug","message":"count:  61680","timestamp":"2015-07-13T05:01:08.362Z"}
+{"level":"debug","message":"count:  61800","timestamp":"2015-07-13T05:11:08.602Z"}
+{"level":"debug","message":"count:  61920","timestamp":"2015-07-13T05:21:08.898Z"}
+{"level":"debug","message":"count:  62040","timestamp":"2015-07-13T05:31:09.169Z"}
+{"level":"debug","message":"count:  62160","timestamp":"2015-07-13T05:41:09.439Z"}
+{"level":"debug","message":"count:  62280","timestamp":"2015-07-13T05:51:09.699Z"}
+{"level":"debug","message":"count:  62400","timestamp":"2015-07-13T06:01:09.947Z"}
+{"level":"debug","message":"count:  62520","timestamp":"2015-07-13T06:11:10.199Z"}
+{"level":"debug","message":"count:  62640","timestamp":"2015-07-13T06:21:10.487Z"}
+{"level":"debug","message":"count:  62760","timestamp":"2015-07-13T06:31:10.757Z"}
+{"level":"debug","message":"count:  62880","timestamp":"2015-07-13T06:41:11.031Z"}
+{"level":"debug","message":"count:  63000","timestamp":"2015-07-13T06:51:11.283Z"}
+{"level":"debug","message":"count:  63120","timestamp":"2015-07-13T07:01:11.577Z"}
+{"level":"debug","message":"count:  63240","timestamp":"2015-07-13T07:11:11.854Z"}
+{"level":"debug","message":"count:  63360","timestamp":"2015-07-13T07:21:12.075Z"}
+{"level":"debug","message":"count:  63480","timestamp":"2015-07-13T07:31:12.369Z"}
+{"level":"debug","message":"count:  63600","timestamp":"2015-07-13T07:41:12.640Z"}
+{"level":"debug","message":"count:  63720","timestamp":"2015-07-13T07:51:12.901Z"}
+{"level":"debug","message":"count:  63840","timestamp":"2015-07-13T08:01:13.181Z"}
+{"level":"debug","message":"count:  63960","timestamp":"2015-07-13T08:11:13.435Z"}
+{"level":"debug","message":"count:  64080","timestamp":"2015-07-13T08:21:13.708Z"}
+{"level":"debug","message":"count:  64200","timestamp":"2015-07-13T08:31:13.966Z"}
+{"level":"debug","message":"count:  64320","timestamp":"2015-07-13T08:41:14.211Z"}
+{"level":"debug","message":"count:  64440","timestamp":"2015-07-13T08:51:14.482Z"}
+{"level":"debug","message":"count:  64560","timestamp":"2015-07-13T09:01:14.762Z"}
+{"level":"debug","message":"count:  64680","timestamp":"2015-07-13T09:11:15.025Z"}
+{"level":"debug","message":"count:  64800","timestamp":"2015-07-13T09:21:15.304Z"}
+{"level":"debug","message":"count:  64920","timestamp":"2015-07-13T09:31:15.562Z"}
+{"level":"debug","message":"count:  65040","timestamp":"2015-07-13T09:41:15.819Z"}
+{"level":"debug","message":"count:  65160","timestamp":"2015-07-13T09:51:16.080Z"}
+{"level":"debug","message":"count:  65280","timestamp":"2015-07-13T10:01:16.332Z"}
+{"level":"debug","message":"count:  65400","timestamp":"2015-07-13T10:11:16.607Z"}
+{"level":"debug","message":"count:  65520","timestamp":"2015-07-13T10:21:16.869Z"}
+{"level":"debug","message":"count:  65640","timestamp":"2015-07-13T10:31:17.103Z"}
+{"level":"debug","message":"count:  65760","timestamp":"2015-07-13T10:41:17.369Z"}
+{"level":"debug","message":"count:  65880","timestamp":"2015-07-13T10:51:17.646Z"}
+{"level":"debug","message":"count:  66000","timestamp":"2015-07-13T11:01:17.908Z"}
+{"level":"debug","message":"count:  66120","timestamp":"2015-07-13T11:11:18.190Z"}
+{"level":"debug","message":"count:  66240","timestamp":"2015-07-13T11:21:18.433Z"}
+{"level":"debug","message":"count:  66360","timestamp":"2015-07-13T11:31:18.660Z"}
+{"level":"debug","message":"count:  66480","timestamp":"2015-07-13T11:41:18.942Z"}
+{"level":"debug","message":"count:  66600","timestamp":"2015-07-13T11:51:19.183Z"}
+{"level":"debug","message":"count:  66720","timestamp":"2015-07-13T12:01:19.431Z"}
+{"level":"debug","message":"count:  66840","timestamp":"2015-07-13T12:11:19.716Z"}
+{"level":"debug","message":"count:  66960","timestamp":"2015-07-13T12:21:19.982Z"}
+{"level":"debug","message":"count:  67080","timestamp":"2015-07-13T12:31:20.260Z"}
+{"level":"debug","message":"count:  67200","timestamp":"2015-07-13T12:41:20.522Z"}
+{"level":"debug","message":"count:  67320","timestamp":"2015-07-13T12:51:20.787Z"}
+{"level":"debug","message":"count:  67440","timestamp":"2015-07-13T13:01:21.050Z"}
+{"level":"debug","message":"count:  67560","timestamp":"2015-07-13T13:11:21.324Z"}
+{"level":"debug","message":"count:  67680","timestamp":"2015-07-13T13:21:21.577Z"}
+{"level":"debug","message":"count:  67800","timestamp":"2015-07-13T13:31:21.841Z"}
+{"level":"debug","message":"count:  67920","timestamp":"2015-07-13T13:41:22.062Z"}
+{"level":"debug","message":"count:  68040","timestamp":"2015-07-13T13:51:22.310Z"}
+{"level":"debug","message":"count:  68160","timestamp":"2015-07-13T14:01:22.549Z"}
+{"level":"debug","message":"count:  68280","timestamp":"2015-07-13T14:11:22.784Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-13T14:13:28.154Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T14:13:28.154Z"}
+{"level":"debug","message":"count:  68400","timestamp":"2015-07-13T14:21:23.049Z"}
+{"level":"debug","message":"count:  68520","timestamp":"2015-07-13T14:31:23.290Z"}
+{"level":"debug","message":"count:  68640","timestamp":"2015-07-13T14:41:23.551Z"}
+{"level":"debug","message":"count:  68760","timestamp":"2015-07-13T14:51:23.805Z"}
+{"level":"debug","message":"count:  68880","timestamp":"2015-07-13T15:01:24.017Z"}
+{"level":"debug","message":"count:  69000","timestamp":"2015-07-13T15:11:24.279Z"}
+{"level":"debug","message":"count:  69120","timestamp":"2015-07-13T15:21:24.535Z"}
+{"level":"debug","message":"count:  69240","timestamp":"2015-07-13T15:31:24.798Z"}
+{"level":"debug","message":"count:  69360","timestamp":"2015-07-13T15:41:25.030Z"}
+{"level":"debug","message":"count:  69480","timestamp":"2015-07-13T15:51:25.281Z"}
+{"level":"debug","message":"count:  69600","timestamp":"2015-07-13T16:01:25.517Z"}
+{"level":"debug","message":"count:  69720","timestamp":"2015-07-13T16:11:25.759Z"}
+{"level":"debug","message":"count:  69840","timestamp":"2015-07-13T16:21:26.029Z"}
+{"level":"debug","message":"count:  69960","timestamp":"2015-07-13T16:31:26.285Z"}
+{"level":"debug","message":"count:  70080","timestamp":"2015-07-13T16:41:26.542Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-13T16:41:41.853Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T16:41:41.853Z"}
+{"level":"debug","message":"count:  70200","timestamp":"2015-07-13T16:51:26.803Z"}
+{"level":"debug","message":"count:  70320","timestamp":"2015-07-13T17:01:27.079Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-07-13T17:09:29.787Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T17:09:29.788Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-07-13T17:09:29.814Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T17:09:29.814Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-07-13T17:09:30.131Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T17:09:30.131Z"}
+{"level":"debug","message":"count:  70440","timestamp":"2015-07-13T17:11:27.449Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-07-13T17:16:53.742Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T17:16:53.742Z"}
+{"level":"debug","message":"count:  70560","timestamp":"2015-07-13T17:21:27.722Z"}
+{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read","level":"debug","timestamp":"2015-07-13T17:27:12.366Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T17:27:12.366Z"}
+{"level":"debug","message":"count:  70680","timestamp":"2015-07-13T17:31:27.826Z"}
+{"level":"debug","message":"count:  70800","timestamp":"2015-07-13T17:41:27.999Z"}
+{"level":"debug","message":"count:  70920","timestamp":"2015-07-13T17:51:28.183Z"}
+{"level":"debug","message":"count:  71040","timestamp":"2015-07-13T18:01:28.371Z"}
+{"level":"debug","message":"count:  71160","timestamp":"2015-07-13T18:11:28.553Z"}
+{"level":"debug","message":"count:  71280","timestamp":"2015-07-13T18:21:28.723Z"}
+{"level":"debug","message":"count:  71400","timestamp":"2015-07-13T18:31:28.880Z"}
+{"level":"debug","message":"count:  71520","timestamp":"2015-07-13T18:41:29.043Z"}
+{"level":"debug","message":"count:  71640","timestamp":"2015-07-13T18:51:29.231Z"}
+{"level":"debug","message":"count:  71760","timestamp":"2015-07-13T19:01:29.395Z"}
+{"level":"debug","message":"count:  71880","timestamp":"2015-07-13T19:11:29.558Z"}
+{"level":"debug","message":"count:  72000","timestamp":"2015-07-13T19:21:29.737Z"}
+{"level":"debug","message":"count:  72120","timestamp":"2015-07-13T19:31:29.914Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-13T19:40:27.890Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-13T19:40:27.890Z"}
+{"level":"debug","message":"count:  72240","timestamp":"2015-07-13T19:41:30.097Z"}
+{"level":"debug","message":"count:  72360","timestamp":"2015-07-13T19:51:30.270Z"}
+{"level":"debug","message":"count:  72480","timestamp":"2015-07-13T20:01:30.464Z"}
+{"level":"debug","message":"count:  72600","timestamp":"2015-07-13T20:11:30.643Z"}
+{"level":"debug","message":"count:  72720","timestamp":"2015-07-13T20:21:30.822Z"}
+{"level":"debug","message":"count:  72840","timestamp":"2015-07-13T20:31:30.990Z"}
+{"level":"debug","message":"count:  72960","timestamp":"2015-07-13T20:41:31.166Z"}
+{"level":"debug","message":"count:  73080","timestamp":"2015-07-13T20:51:31.345Z"}
+{"level":"debug","message":"count:  73200","timestamp":"2015-07-13T21:01:31.519Z"}
+{"level":"debug","message":"count:  73320","timestamp":"2015-07-13T21:11:31.704Z"}
+{"level":"debug","message":"count:  73440","timestamp":"2015-07-13T21:21:31.882Z"}
+{"level":"debug","message":"count:  73560","timestamp":"2015-07-13T21:31:32.069Z"}
+{"level":"debug","message":"count:  73680","timestamp":"2015-07-13T21:41:32.256Z"}
+{"level":"debug","message":"count:  73800","timestamp":"2015-07-13T21:51:32.436Z"}
+{"level":"debug","message":"count:  73920","timestamp":"2015-07-13T22:01:32.626Z"}
+{"level":"debug","message":"count:  74040","timestamp":"2015-07-13T22:11:32.806Z"}
+{"level":"debug","message":"count:  74160","timestamp":"2015-07-13T22:21:32.992Z"}
+{"level":"debug","message":"count:  74280","timestamp":"2015-07-13T22:31:33.184Z"}
+{"level":"debug","message":"count:  74400","timestamp":"2015-07-13T22:41:33.377Z"}
+{"level":"debug","message":"count:  74520","timestamp":"2015-07-13T22:51:33.588Z"}
+{"level":"debug","message":"count:  74640","timestamp":"2015-07-13T23:01:33.781Z"}
+{"level":"debug","message":"count:  74760","timestamp":"2015-07-13T23:11:33.980Z"}
+{"level":"debug","message":"count:  74880","timestamp":"2015-07-13T23:21:34.179Z"}
+{"level":"debug","message":"count:  75000","timestamp":"2015-07-13T23:31:34.388Z"}
+{"level":"debug","message":"count:  75120","timestamp":"2015-07-13T23:41:34.588Z"}
+{"level":"debug","message":"count:  75240","timestamp":"2015-07-13T23:51:34.808Z"}
+{"level":"debug","message":"count:  75360","timestamp":"2015-07-14T00:01:34.996Z"}
+{"level":"debug","message":"count:  75480","timestamp":"2015-07-14T00:11:35.207Z"}
+{"level":"debug","message":"count:  75600","timestamp":"2015-07-14T00:21:35.422Z"}
+{"level":"debug","message":"count:  75720","timestamp":"2015-07-14T00:31:35.632Z"}
+{"level":"debug","message":"count:  75840","timestamp":"2015-07-14T00:41:35.840Z"}
+{"level":"debug","message":"count:  75960","timestamp":"2015-07-14T00:51:36.049Z"}
+{"level":"debug","message":"count:  76080","timestamp":"2015-07-14T01:01:36.260Z"}
+{"level":"debug","message":"count:  76200","timestamp":"2015-07-14T01:11:36.464Z"}
+{"level":"debug","message":"count:  76320","timestamp":"2015-07-14T01:21:36.669Z"}
+{"level":"debug","message":"count:  76440","timestamp":"2015-07-14T01:31:36.884Z"}
+{"level":"debug","message":"count:  76560","timestamp":"2015-07-14T01:41:37.101Z"}
+{"level":"debug","message":"count:  76680","timestamp":"2015-07-14T01:51:37.305Z"}
+{"level":"debug","message":"count:  76800","timestamp":"2015-07-14T02:01:37.507Z"}
+{"level":"debug","message":"count:  76920","timestamp":"2015-07-14T02:11:37.712Z"}
+{"level":"debug","message":"count:  77040","timestamp":"2015-07-14T02:21:37.909Z"}
+{"level":"debug","message":"count:  77160","timestamp":"2015-07-14T02:31:38.127Z"}
+{"level":"debug","message":"count:  77280","timestamp":"2015-07-14T02:41:38.343Z"}
+{"level":"debug","message":"count:  77400","timestamp":"2015-07-14T02:51:38.514Z"}
+{"level":"debug","message":"count:  77520","timestamp":"2015-07-14T03:01:38.714Z"}
+{"level":"debug","message":"count:  77640","timestamp":"2015-07-14T03:11:38.944Z"}
+{"level":"debug","message":"count:  77760","timestamp":"2015-07-14T03:21:39.128Z"}
+{"level":"debug","message":"count:  77880","timestamp":"2015-07-14T03:31:39.335Z"}
+{"level":"debug","message":"count:  78000","timestamp":"2015-07-14T03:41:39.544Z"}
+{"level":"debug","message":"count:  78120","timestamp":"2015-07-14T03:51:39.766Z"}
+{"level":"debug","message":"count:  78240","timestamp":"2015-07-14T04:01:39.982Z"}
+{"level":"debug","message":"count:  78360","timestamp":"2015-07-14T04:11:40.193Z"}
+{"level":"debug","message":"count:  78480","timestamp":"2015-07-14T04:21:40.385Z"}
+{"level":"debug","message":"count:  78600","timestamp":"2015-07-14T04:31:40.571Z"}
+{"level":"debug","message":"count:  78720","timestamp":"2015-07-14T04:41:40.785Z"}
+{"level":"debug","message":"count:  78840","timestamp":"2015-07-14T04:51:40.983Z"}
+{"level":"debug","message":"count:  78960","timestamp":"2015-07-14T05:01:41.167Z"}
+{"level":"debug","message":"count:  79080","timestamp":"2015-07-14T05:11:41.372Z"}
+{"level":"debug","message":"count:  79200","timestamp":"2015-07-14T05:21:41.588Z"}
+{"level":"debug","message":"count:  79320","timestamp":"2015-07-14T05:31:41.811Z"}
+{"level":"debug","message":"count:  79440","timestamp":"2015-07-14T05:41:42.023Z"}
+{"level":"debug","message":"count:  79560","timestamp":"2015-07-14T05:51:42.241Z"}
+{"level":"debug","message":"count:  79680","timestamp":"2015-07-14T06:01:42.437Z"}
+{"level":"debug","message":"count:  79800","timestamp":"2015-07-14T06:11:42.641Z"}
+{"level":"debug","message":"count:  79920","timestamp":"2015-07-14T06:21:42.872Z"}
+{"level":"debug","message":"count:  80040","timestamp":"2015-07-14T06:31:43.070Z"}
+{"level":"debug","message":"count:  80160","timestamp":"2015-07-14T06:41:43.269Z"}
+{"level":"debug","message":"count:  80280","timestamp":"2015-07-14T06:51:43.499Z"}
+{"level":"debug","message":"count:  80400","timestamp":"2015-07-14T07:01:43.708Z"}
+{"level":"debug","message":"count:  80520","timestamp":"2015-07-14T07:11:43.910Z"}
+{"level":"debug","message":"count:  80640","timestamp":"2015-07-14T07:21:44.097Z"}
+{"level":"debug","message":"count:  80760","timestamp":"2015-07-14T07:31:44.298Z"}
+{"level":"debug","message":"count:  80880","timestamp":"2015-07-14T07:41:44.511Z"}
+{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read","level":"debug","timestamp":"2015-07-14T07:42:25.895Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T07:42:25.895Z"}
+{"code":"ECONNRESET","errno":"ECONNRESET","syscall":"read","level":"debug","timestamp":"2015-07-14T07:43:53.939Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T07:43:53.939Z"}
+{"level":"debug","message":"count:  81000","timestamp":"2015-07-14T07:51:44.703Z"}
+{"level":"debug","message":"count:  81120","timestamp":"2015-07-14T08:01:44.902Z"}
+{"level":"debug","message":"count:  81240","timestamp":"2015-07-14T08:11:45.111Z"}
+{"level":"debug","message":"count:  81360","timestamp":"2015-07-14T08:21:45.319Z"}
+{"level":"debug","message":"count:  81480","timestamp":"2015-07-14T08:31:45.517Z"}
+{"level":"debug","message":"count:  81600","timestamp":"2015-07-14T08:41:45.730Z"}
+{"level":"debug","message":"count:  81720","timestamp":"2015-07-14T08:51:45.918Z"}
+{"level":"debug","message":"count:  81840","timestamp":"2015-07-14T09:01:46.124Z"}
+{"level":"debug","message":"count:  81960","timestamp":"2015-07-14T09:11:46.331Z"}
+{"level":"debug","message":"count:  82080","timestamp":"2015-07-14T09:21:46.531Z"}
+{"level":"debug","message":"count:  82200","timestamp":"2015-07-14T09:31:46.696Z"}
+{"level":"debug","message":"count:  82320","timestamp":"2015-07-14T09:41:46.910Z"}
+{"level":"debug","message":"count:  82440","timestamp":"2015-07-14T09:51:47.100Z"}
+{"level":"debug","message":"count:  82560","timestamp":"2015-07-14T10:01:47.299Z"}
+{"level":"debug","message":"count:  82680","timestamp":"2015-07-14T10:11:47.489Z"}
+{"level":"debug","message":"count:  82800","timestamp":"2015-07-14T10:21:47.683Z"}
+{"level":"debug","message":"count:  82920","timestamp":"2015-07-14T10:31:47.883Z"}
+{"level":"debug","message":"count:  83040","timestamp":"2015-07-14T10:41:48.082Z"}
+{"level":"debug","message":"count:  83160","timestamp":"2015-07-14T10:51:48.263Z"}
+{"level":"debug","message":"count:  83280","timestamp":"2015-07-14T11:01:48.466Z"}
+{"level":"debug","message":"count:  83400","timestamp":"2015-07-14T11:11:48.666Z"}
+{"level":"debug","message":"count:  83520","timestamp":"2015-07-14T11:21:48.860Z"}
+{"level":"debug","message":"count:  83640","timestamp":"2015-07-14T11:31:49.040Z"}
+{"level":"debug","message":"count:  83760","timestamp":"2015-07-14T11:41:49.231Z"}
+{"level":"debug","message":"count:  83880","timestamp":"2015-07-14T11:51:49.435Z"}
+{"level":"debug","message":"count:  84000","timestamp":"2015-07-14T12:01:49.619Z"}
+{"level":"debug","message":"count:  84120","timestamp":"2015-07-14T12:11:49.802Z"}
+{"level":"debug","message":"count:  84240","timestamp":"2015-07-14T12:21:50.005Z"}
+{"level":"debug","message":"count:  84360","timestamp":"2015-07-14T12:31:50.208Z"}
+{"level":"debug","message":"count:  84480","timestamp":"2015-07-14T12:41:50.411Z"}
+{"level":"debug","message":"count:  84600","timestamp":"2015-07-14T12:51:50.602Z"}
+{"level":"debug","message":"count:  84720","timestamp":"2015-07-14T13:01:50.793Z"}
+{"level":"debug","message":"count:  84840","timestamp":"2015-07-14T13:11:50.977Z"}
+{"level":"debug","message":"count:  84960","timestamp":"2015-07-14T13:21:51.155Z"}
+{"level":"debug","message":"count:  85080","timestamp":"2015-07-14T13:31:51.348Z"}
+{"level":"debug","message":"count:  85200","timestamp":"2015-07-14T13:41:51.544Z"}
+{"level":"debug","message":"count:  85320","timestamp":"2015-07-14T13:51:51.710Z"}
+{"level":"debug","message":"count:  85440","timestamp":"2015-07-14T14:01:51.887Z"}
+{"level":"debug","message":"count:  85560","timestamp":"2015-07-14T14:11:52.088Z"}
+{"level":"debug","message":"count:  85680","timestamp":"2015-07-14T14:21:52.253Z"}
+{"level":"debug","message":"count:  85800","timestamp":"2015-07-14T14:31:52.433Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T14:40:13.686Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T14:40:13.687Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T14:40:48.964Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T14:40:48.964Z"}
+{"level":"debug","message":"count:  85920","timestamp":"2015-07-14T14:41:52.616Z"}
+{"level":"debug","message":"count:  86040","timestamp":"2015-07-14T14:51:52.797Z"}
+{"level":"debug","message":"count:  86160","timestamp":"2015-07-14T15:01:52.974Z"}
+{"level":"debug","message":"count:  86280","timestamp":"2015-07-14T15:11:53.159Z"}
+{"level":"debug","message":"count:  86400","timestamp":"2015-07-14T15:21:53.330Z"}
+{"level":"debug","message":"count:  86520","timestamp":"2015-07-14T15:31:53.474Z"}
+{"level":"debug","message":"count:  86640","timestamp":"2015-07-14T15:41:53.650Z"}
+{"level":"debug","message":"count:  86760","timestamp":"2015-07-14T15:51:53.833Z"}
+{"level":"debug","message":"count:  86880","timestamp":"2015-07-14T16:01:54.035Z"}
+{"level":"debug","message":"count:  87000","timestamp":"2015-07-14T16:11:54.252Z"}
+{"level":"debug","message":"count:  87120","timestamp":"2015-07-14T16:21:54.451Z"}
+{"level":"debug","message":"count:  87240","timestamp":"2015-07-14T16:31:54.634Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T16:32:12.209Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T16:32:12.209Z"}
+{"level":"debug","message":"count:  87360","timestamp":"2015-07-14T16:41:54.839Z"}
+{"level":"debug","message":"count:  87480","timestamp":"2015-07-14T16:51:55.019Z"}
+{"level":"debug","message":"count:  87600","timestamp":"2015-07-14T17:01:55.205Z"}
+{"level":"debug","message":"count:  87720","timestamp":"2015-07-14T17:11:55.372Z"}
+{"level":"debug","message":"count:  87840","timestamp":"2015-07-14T17:21:55.560Z"}
+{"level":"debug","message":"count:  87960","timestamp":"2015-07-14T17:31:55.730Z"}
+{"level":"debug","message":"count:  88080","timestamp":"2015-07-14T17:41:55.926Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T17:46:16.301Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T17:46:16.301Z"}
+{"level":"debug","message":"count:  88200","timestamp":"2015-07-14T17:51:56.103Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T17:54:21.519Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T17:54:21.519Z"}
+{"level":"debug","message":"count:  88320","timestamp":"2015-07-14T18:01:56.286Z"}
+{"level":"debug","message":"count:  88440","timestamp":"2015-07-14T18:11:56.467Z"}
+{"level":"debug","message":"count:  88560","timestamp":"2015-07-14T18:21:56.650Z"}
+{"level":"debug","message":"count:  88680","timestamp":"2015-07-14T18:31:56.820Z"}
+{"statusCode":502,"responseBody":"<html><body><h1>502 Bad Gateway</h1>\nThe server returned an invalid or incomplete response.\n</body></html>\n","statusMessage":"Bad Gateway","level":"debug","timestamp":"2015-07-14T18:37:02.686Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T18:37:02.686Z"}
+{"level":"debug","message":"count:  88800","timestamp":"2015-07-14T18:41:57.023Z"}
+{"level":"debug","message":"count:  88920","timestamp":"2015-07-14T18:51:57.197Z"}
+{"level":"debug","message":"count:  89040","timestamp":"2015-07-14T19:01:57.351Z"}
+{"level":"debug","message":"count:  89160","timestamp":"2015-07-14T19:11:57.541Z"}
+{"level":"debug","message":"count:  89280","timestamp":"2015-07-14T19:21:57.719Z"}
+{"level":"debug","message":"count:  89400","timestamp":"2015-07-14T19:31:57.897Z"}
+{"level":"debug","message":"count:  89520","timestamp":"2015-07-14T19:41:58.069Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-14T19:44:23.421Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-14T19:44:23.422Z"}
+{"level":"debug","message":"count:  89640","timestamp":"2015-07-14T19:51:58.251Z"}
+{"level":"debug","message":"count:  89760","timestamp":"2015-07-14T20:01:58.449Z"}
+{"level":"debug","message":"count:  89880","timestamp":"2015-07-14T20:11:58.622Z"}
+{"level":"debug","message":"count:  90000","timestamp":"2015-07-14T20:21:58.803Z"}
+{"level":"debug","message":"count:  90120","timestamp":"2015-07-14T20:31:58.982Z"}
+{"level":"debug","message":"count:  90240","timestamp":"2015-07-14T20:41:59.176Z"}
+{"level":"debug","message":"count:  90360","timestamp":"2015-07-14T20:51:59.339Z"}
+{"level":"debug","message":"count:  90480","timestamp":"2015-07-14T21:01:59.527Z"}
+{"level":"debug","message":"count:  90600","timestamp":"2015-07-14T21:11:59.711Z"}
+{"level":"debug","message":"count:  90720","timestamp":"2015-07-14T21:21:59.893Z"}
+{"level":"debug","message":"count:  90840","timestamp":"2015-07-14T21:32:00.093Z"}
+{"level":"debug","message":"count:  90960","timestamp":"2015-07-14T21:42:00.265Z"}
+{"level":"debug","message":"count:  91080","timestamp":"2015-07-14T21:52:00.442Z"}
+{"level":"debug","message":"count:  91200","timestamp":"2015-07-14T22:02:00.630Z"}
+{"level":"debug","message":"count:  91320","timestamp":"2015-07-14T22:12:00.812Z"}
+{"level":"debug","message":"count:  91440","timestamp":"2015-07-14T22:22:01.007Z"}
+{"level":"debug","message":"count:  91560","timestamp":"2015-07-14T22:32:01.190Z"}
+{"level":"debug","message":"count:  91680","timestamp":"2015-07-14T22:42:01.375Z"}
+{"level":"debug","message":"count:  91800","timestamp":"2015-07-14T22:52:01.562Z"}
+{"level":"debug","message":"count:  91920","timestamp":"2015-07-14T23:02:01.755Z"}
+{"level":"debug","message":"count:  92040","timestamp":"2015-07-14T23:12:01.931Z"}
+{"level":"debug","message":"count:  92160","timestamp":"2015-07-14T23:22:02.110Z"}
+{"level":"debug","message":"count:  92280","timestamp":"2015-07-14T23:32:02.312Z"}
+{"level":"debug","message":"count:  92400","timestamp":"2015-07-14T23:42:02.512Z"}
+{"level":"debug","message":"count:  92520","timestamp":"2015-07-14T23:52:02.702Z"}
+{"level":"debug","message":"count:  92640","timestamp":"2015-07-15T00:02:02.895Z"}
+{"level":"debug","message":"count:  92760","timestamp":"2015-07-15T00:12:03.098Z"}
+{"level":"debug","message":"count:  92880","timestamp":"2015-07-15T00:22:03.319Z"}
+{"level":"debug","message":"count:  93000","timestamp":"2015-07-15T00:32:03.539Z"}
+{"level":"debug","message":"count:  93120","timestamp":"2015-07-15T00:42:03.763Z"}
+{"level":"debug","message":"count:  93240","timestamp":"2015-07-15T00:52:03.971Z"}
+{"level":"debug","message":"count:  93360","timestamp":"2015-07-15T01:02:04.172Z"}
+{"level":"debug","message":"count:  93480","timestamp":"2015-07-15T01:12:04.386Z"}
+{"level":"debug","message":"count:  93600","timestamp":"2015-07-15T01:22:04.589Z"}
+{"level":"debug","message":"count:  93720","timestamp":"2015-07-15T01:32:04.758Z"}
+{"level":"debug","message":"count:  93840","timestamp":"2015-07-15T01:42:04.971Z"}
+{"level":"debug","message":"count:  93960","timestamp":"2015-07-15T01:52:05.179Z"}
+{"level":"debug","message":"count:  94080","timestamp":"2015-07-15T02:02:05.389Z"}
+{"level":"debug","message":"count:  94200","timestamp":"2015-07-15T02:12:05.560Z"}
+{"level":"debug","message":"count:  94320","timestamp":"2015-07-15T02:22:05.751Z"}
+{"level":"debug","message":"count:  94440","timestamp":"2015-07-15T02:32:05.965Z"}
+{"level":"debug","message":"count:  94560","timestamp":"2015-07-15T02:42:06.164Z"}
+{"level":"debug","message":"count:  94680","timestamp":"2015-07-15T02:52:06.371Z"}
+{"level":"debug","message":"count:  94800","timestamp":"2015-07-15T03:02:06.573Z"}
+{"level":"debug","message":"count:  94920","timestamp":"2015-07-15T03:12:06.763Z"}
+{"level":"debug","message":"count:  95040","timestamp":"2015-07-15T03:22:06.964Z"}
+{"level":"debug","message":"count:  95160","timestamp":"2015-07-15T03:32:07.169Z"}
+{"level":"debug","message":"count:  95280","timestamp":"2015-07-15T03:42:07.366Z"}
+{"level":"debug","message":"count:  95400","timestamp":"2015-07-15T03:52:07.577Z"}
+{"level":"debug","message":"count:  95520","timestamp":"2015-07-15T04:02:07.763Z"}
+{"level":"debug","message":"count:  95640","timestamp":"2015-07-15T04:12:07.970Z"}
+{"level":"debug","message":"count:  95760","timestamp":"2015-07-15T04:22:08.164Z"}
+{"level":"debug","message":"count:  95880","timestamp":"2015-07-15T04:32:08.385Z"}
+{"level":"debug","message":"count:  96000","timestamp":"2015-07-15T04:42:08.585Z"}
+{"level":"debug","message":"count:  96120","timestamp":"2015-07-15T04:52:08.797Z"}
+{"level":"debug","message":"count:  96240","timestamp":"2015-07-15T05:02:09.013Z"}
+{"level":"debug","message":"count:  96360","timestamp":"2015-07-15T05:12:09.220Z"}
+{"level":"debug","message":"count:  96480","timestamp":"2015-07-15T05:22:09.445Z"}
+{"level":"debug","message":"count:  96600","timestamp":"2015-07-15T05:32:09.658Z"}
+{"level":"debug","message":"count:  96720","timestamp":"2015-07-15T05:42:09.876Z"}
+{"level":"debug","message":"count:  96840","timestamp":"2015-07-15T05:52:10.073Z"}
+{"level":"debug","message":"count:  96960","timestamp":"2015-07-15T06:02:10.285Z"}
+{"level":"debug","message":"count:  97080","timestamp":"2015-07-15T06:12:10.487Z"}
+{"level":"debug","message":"count:  97200","timestamp":"2015-07-15T06:22:10.683Z"}
+{"level":"debug","message":"count:  97320","timestamp":"2015-07-15T06:32:10.883Z"}
+{"level":"debug","message":"count:  97440","timestamp":"2015-07-15T06:42:11.075Z"}
+{"level":"debug","message":"count:  97560","timestamp":"2015-07-15T06:52:11.264Z"}
+{"level":"debug","message":"count:  97680","timestamp":"2015-07-15T07:02:11.458Z"}
+{"level":"debug","message":"count:  97800","timestamp":"2015-07-15T07:12:11.653Z"}
+{"level":"debug","message":"count:  97920","timestamp":"2015-07-15T07:22:11.842Z"}
+{"level":"debug","message":"count:  98040","timestamp":"2015-07-15T07:32:12.041Z"}
+{"level":"debug","message":"count:  98160","timestamp":"2015-07-15T07:42:12.238Z"}
+{"level":"debug","message":"count:  98280","timestamp":"2015-07-15T07:52:12.446Z"}
+{"level":"debug","message":"count:  98400","timestamp":"2015-07-15T08:02:12.638Z"}
+{"level":"debug","message":"count:  98520","timestamp":"2015-07-15T08:12:12.837Z"}
+{"level":"debug","message":"count:  98640","timestamp":"2015-07-15T08:22:13.027Z"}
+{"level":"debug","message":"count:  98760","timestamp":"2015-07-15T08:32:13.223Z"}
+{"level":"debug","message":"count:  98880","timestamp":"2015-07-15T08:42:13.434Z"}
+{"level":"debug","message":"count:  99000","timestamp":"2015-07-15T08:52:13.638Z"}
+{"level":"debug","message":"count:  99120","timestamp":"2015-07-15T09:02:13.840Z"}
+{"level":"debug","message":"count:  99240","timestamp":"2015-07-15T09:12:14.021Z"}
+{"level":"debug","message":"count:  99360","timestamp":"2015-07-15T09:22:14.225Z"}
+{"level":"debug","message":"count:  99480","timestamp":"2015-07-15T09:32:14.416Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T09:40:49.871Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T09:40:49.871Z"}
+{"level":"debug","message":"count:  99600","timestamp":"2015-07-15T09:42:14.610Z"}
+{"level":"debug","message":"count:  99720","timestamp":"2015-07-15T09:52:14.798Z"}
+{"level":"debug","message":"count:  99840","timestamp":"2015-07-15T10:02:14.984Z"}
+{"level":"debug","message":"count:  99960","timestamp":"2015-07-15T10:12:15.173Z"}
+{"level":"debug","message":"count:  100080","timestamp":"2015-07-15T10:22:15.361Z"}
+{"level":"debug","message":"count:  100200","timestamp":"2015-07-15T10:32:15.552Z"}
+{"level":"debug","message":"count:  100320","timestamp":"2015-07-15T10:42:15.760Z"}
+{"level":"debug","message":"count:  100440","timestamp":"2015-07-15T10:52:15.955Z"}
+{"level":"debug","message":"count:  100560","timestamp":"2015-07-15T11:02:16.145Z"}
+{"level":"debug","message":"count:  100680","timestamp":"2015-07-15T11:12:16.327Z"}
+{"level":"debug","message":"count:  100800","timestamp":"2015-07-15T11:22:16.501Z"}
+{"level":"debug","message":"count:  100920","timestamp":"2015-07-15T11:32:16.698Z"}
+{"level":"debug","message":"count:  101040","timestamp":"2015-07-15T11:42:16.904Z"}
+{"level":"debug","message":"count:  101160","timestamp":"2015-07-15T11:52:17.090Z"}
+{"level":"debug","message":"count:  101280","timestamp":"2015-07-15T12:02:17.270Z"}
+{"level":"debug","message":"count:  101400","timestamp":"2015-07-15T12:12:17.440Z"}
+{"level":"debug","message":"count:  101520","timestamp":"2015-07-15T12:22:17.615Z"}
+{"level":"debug","message":"count:  101640","timestamp":"2015-07-15T12:32:17.779Z"}
+{"level":"debug","message":"count:  101760","timestamp":"2015-07-15T12:42:17.967Z"}
+{"level":"debug","message":"count:  101880","timestamp":"2015-07-15T12:52:18.159Z"}
+{"level":"debug","message":"count:  102000","timestamp":"2015-07-15T13:02:18.342Z"}
+{"level":"debug","message":"count:  102120","timestamp":"2015-07-15T13:12:18.526Z"}
+{"level":"debug","message":"count:  102240","timestamp":"2015-07-15T13:22:18.701Z"}
+{"level":"debug","message":"count:  102360","timestamp":"2015-07-15T13:32:18.881Z"}
+{"level":"debug","message":"count:  102480","timestamp":"2015-07-15T13:42:19.061Z"}
+{"level":"debug","message":"count:  102600","timestamp":"2015-07-15T13:52:19.222Z"}
+{"level":"debug","message":"count:  102720","timestamp":"2015-07-15T14:02:19.377Z"}
+{"level":"debug","message":"count:  102840","timestamp":"2015-07-15T14:12:19.535Z"}
+{"level":"debug","message":"count:  102960","timestamp":"2015-07-15T14:22:19.694Z"}
+{"level":"debug","message":"count:  103080","timestamp":"2015-07-15T14:32:19.859Z"}
+{"level":"debug","message":"count:  103200","timestamp":"2015-07-15T14:42:20.027Z"}
+{"level":"debug","message":"count:  103320","timestamp":"2015-07-15T14:52:20.219Z"}
+{"level":"debug","message":"count:  103440","timestamp":"2015-07-15T15:02:20.409Z"}
+{"level":"debug","message":"count:  103560","timestamp":"2015-07-15T15:12:20.591Z"}
+{"level":"debug","message":"count:  103680","timestamp":"2015-07-15T15:22:20.765Z"}
+{"level":"debug","message":"count:  103800","timestamp":"2015-07-15T15:32:20.942Z"}
+{"level":"debug","message":"count:  103920","timestamp":"2015-07-15T15:42:21.118Z"}
+{"level":"debug","message":"count:  104040","timestamp":"2015-07-15T15:52:21.291Z"}
+{"level":"debug","message":"count:  104160","timestamp":"2015-07-15T16:02:21.464Z"}
+{"level":"debug","message":"count:  104280","timestamp":"2015-07-15T16:12:21.648Z"}
+{"level":"debug","message":"count:  104400","timestamp":"2015-07-15T16:22:21.825Z"}
+{"level":"debug","message":"count:  104520","timestamp":"2015-07-15T16:32:22.008Z"}
+{"level":"debug","message":"count:  104640","timestamp":"2015-07-15T16:42:22.195Z"}
+{"level":"debug","message":"count:  104760","timestamp":"2015-07-15T16:52:22.388Z"}
+{"level":"debug","message":"count:  104880","timestamp":"2015-07-15T17:02:22.590Z"}
+{"level":"debug","message":"count:  105000","timestamp":"2015-07-15T17:12:22.781Z"}
+{"level":"debug","message":"count:  105120","timestamp":"2015-07-15T17:22:22.951Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T17:27:18.345Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T17:27:18.345Z"}
+{"level":"debug","message":"count:  105240","timestamp":"2015-07-15T17:32:23.133Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T17:34:18.471Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T17:34:18.471Z"}
+{"level":"debug","message":"count:  105360","timestamp":"2015-07-15T17:42:23.315Z"}
+{"level":"debug","message":"count:  105480","timestamp":"2015-07-15T17:52:23.506Z"}
+{"level":"debug","message":"count:  105600","timestamp":"2015-07-15T18:02:23.696Z"}
+{"level":"debug","message":"count:  105720","timestamp":"2015-07-15T18:12:23.884Z"}
+{"level":"debug","message":"count:  105840","timestamp":"2015-07-15T18:22:24.078Z"}
+{"level":"debug","message":"count:  105960","timestamp":"2015-07-15T18:32:24.254Z"}
+{"level":"debug","message":"count:  106080","timestamp":"2015-07-15T18:42:24.426Z"}
+{"level":"debug","message":"count:  106200","timestamp":"2015-07-15T18:52:24.611Z"}
+{"level":"debug","message":"count:  106320","timestamp":"2015-07-15T19:02:24.777Z"}
+{"level":"debug","message":"count:  106440","timestamp":"2015-07-15T19:12:24.967Z"}
+{"level":"debug","message":"count:  106560","timestamp":"2015-07-15T19:22:25.133Z"}
+{"level":"debug","message":"count:  106680","timestamp":"2015-07-15T19:32:25.316Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T19:40:31.246Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T19:40:31.246Z"}
+{"level":"debug","message":"count:  106800","timestamp":"2015-07-15T19:42:25.513Z"}
+{"level":"debug","message":"count:  106920","timestamp":"2015-07-15T19:52:25.694Z"}
+{"level":"debug","message":"count:  107040","timestamp":"2015-07-15T20:02:25.874Z"}
+{"level":"debug","message":"count:  107160","timestamp":"2015-07-15T20:12:26.050Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T20:15:11.817Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T20:15:11.817Z"}
+{"level":"debug","message":"count:  107280","timestamp":"2015-07-15T20:22:26.246Z"}
+{"level":"debug","message":"count:  107400","timestamp":"2015-07-15T20:32:26.422Z"}
+{"level":"debug","message":"count:  107520","timestamp":"2015-07-15T20:42:26.602Z"}
+{"level":"debug","message":"count:  107640","timestamp":"2015-07-15T20:52:26.783Z"}
+{"level":"debug","message":"count:  107760","timestamp":"2015-07-15T21:02:26.963Z"}
+{"level":"debug","message":"count:  107880","timestamp":"2015-07-15T21:12:27.140Z"}
+{"level":"debug","message":"count:  108000","timestamp":"2015-07-15T21:22:27.320Z"}
+{"level":"debug","message":"count:  108120","timestamp":"2015-07-15T21:32:27.504Z"}
+{"level":"debug","message":"count:  108240","timestamp":"2015-07-15T21:42:27.678Z"}
+{"level":"debug","message":"count:  108360","timestamp":"2015-07-15T21:52:27.870Z"}
+{"level":"debug","message":"count:  108480","timestamp":"2015-07-15T22:02:28.067Z"}
+{"level":"debug","message":"count:  108600","timestamp":"2015-07-15T22:12:28.247Z"}
+{"level":"debug","message":"count:  108720","timestamp":"2015-07-15T22:22:28.450Z"}
+{"level":"debug","message":"count:  108840","timestamp":"2015-07-15T22:32:28.636Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-15T22:39:16.393Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-15T22:39:16.393Z"}
+{"level":"debug","message":"count:  108960","timestamp":"2015-07-15T22:42:28.822Z"}
+{"level":"debug","message":"count:  109080","timestamp":"2015-07-15T22:52:29.031Z"}
+{"level":"debug","message":"count:  109200","timestamp":"2015-07-15T23:02:29.212Z"}
+{"level":"debug","message":"count:  109320","timestamp":"2015-07-15T23:12:29.411Z"}
+{"level":"debug","message":"count:  109440","timestamp":"2015-07-15T23:22:29.591Z"}
+{"level":"debug","message":"count:  109560","timestamp":"2015-07-15T23:32:29.770Z"}
+{"level":"debug","message":"count:  109680","timestamp":"2015-07-15T23:42:29.960Z"}
+{"level":"debug","message":"count:  109800","timestamp":"2015-07-15T23:52:30.153Z"}
+{"level":"debug","message":"count:  109920","timestamp":"2015-07-16T00:02:30.354Z"}
+{"level":"debug","message":"count:  110040","timestamp":"2015-07-16T00:12:30.552Z"}
+{"level":"debug","message":"count:  110160","timestamp":"2015-07-16T00:22:30.750Z"}
+{"level":"debug","message":"count:  110280","timestamp":"2015-07-16T00:32:30.937Z"}
+{"level":"debug","message":"count:  110400","timestamp":"2015-07-16T00:42:31.137Z"}
+{"level":"debug","message":"count:  110520","timestamp":"2015-07-16T00:52:31.338Z"}
+{"level":"debug","message":"count:  110640","timestamp":"2015-07-16T01:02:31.527Z"}
+{"level":"debug","message":"count:  110760","timestamp":"2015-07-16T01:12:31.723Z"}
+{"level":"debug","message":"count:  110880","timestamp":"2015-07-16T01:22:31.932Z"}
+{"level":"debug","message":"count:  111000","timestamp":"2015-07-16T01:32:32.129Z"}
+{"level":"debug","message":"count:  111120","timestamp":"2015-07-16T01:42:32.337Z"}
+{"level":"debug","message":"count:  111240","timestamp":"2015-07-16T01:52:32.526Z"}
+{"level":"debug","message":"count:  111360","timestamp":"2015-07-16T02:02:32.741Z"}
+{"level":"debug","message":"count:  111480","timestamp":"2015-07-16T02:12:32.949Z"}
+{"level":"debug","message":"count:  111600","timestamp":"2015-07-16T02:22:33.139Z"}
+{"level":"debug","message":"count:  111720","timestamp":"2015-07-16T02:32:33.341Z"}
+{"level":"debug","message":"count:  111840","timestamp":"2015-07-16T02:42:33.544Z"}
+{"level":"debug","message":"count:  111960","timestamp":"2015-07-16T02:52:33.760Z"}
+{"level":"debug","message":"count:  112080","timestamp":"2015-07-16T03:02:33.957Z"}
+{"level":"debug","message":"count:  112200","timestamp":"2015-07-16T03:12:34.141Z"}
+{"level":"debug","message":"count:  112320","timestamp":"2015-07-16T03:22:34.339Z"}
+{"level":"debug","message":"count:  112440","timestamp":"2015-07-16T03:32:34.544Z"}
+{"level":"debug","message":"count:  112560","timestamp":"2015-07-16T03:42:34.729Z"}
+{"level":"debug","message":"count:  112680","timestamp":"2015-07-16T03:52:34.938Z"}
+{"level":"debug","message":"count:  112800","timestamp":"2015-07-16T04:02:35.128Z"}
+{"level":"debug","message":"count:  112920","timestamp":"2015-07-16T04:12:35.337Z"}
+{"level":"debug","message":"count:  113040","timestamp":"2015-07-16T04:22:35.535Z"}
+{"level":"debug","message":"count:  113160","timestamp":"2015-07-16T04:32:35.739Z"}
+{"level":"debug","message":"count:  113280","timestamp":"2015-07-16T04:42:35.928Z"}
+{"level":"debug","message":"count:  113400","timestamp":"2015-07-16T04:52:36.124Z"}
+{"level":"debug","message":"count:  113520","timestamp":"2015-07-16T05:02:36.334Z"}
+{"level":"debug","message":"count:  113640","timestamp":"2015-07-16T05:12:36.529Z"}
+{"level":"debug","message":"count:  113760","timestamp":"2015-07-16T05:22:36.728Z"}
+{"level":"debug","message":"count:  113880","timestamp":"2015-07-16T05:32:36.928Z"}
+{"level":"debug","message":"count:  114000","timestamp":"2015-07-16T05:42:37.137Z"}
+{"level":"debug","message":"count:  114120","timestamp":"2015-07-16T05:52:37.353Z"}
+{"level":"debug","message":"count:  114240","timestamp":"2015-07-16T06:02:37.558Z"}
+{"level":"debug","message":"count:  114360","timestamp":"2015-07-16T06:12:37.749Z"}
+{"level":"debug","message":"count:  114480","timestamp":"2015-07-16T06:22:37.965Z"}
+{"level":"debug","message":"count:  114600","timestamp":"2015-07-16T06:32:38.172Z"}
+{"level":"debug","message":"count:  114720","timestamp":"2015-07-16T06:42:38.364Z"}
+{"level":"debug","message":"count:  114840","timestamp":"2015-07-16T06:52:38.570Z"}
+{"level":"debug","message":"count:  114960","timestamp":"2015-07-16T07:02:38.758Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T07:03:09.070Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T07:03:09.070Z"}
+{"level":"debug","message":"count:  115080","timestamp":"2015-07-16T07:12:38.950Z"}
+{"level":"debug","message":"count:  115200","timestamp":"2015-07-16T07:22:39.157Z"}
+{"level":"debug","message":"count:  115320","timestamp":"2015-07-16T07:32:39.355Z"}
+{"level":"debug","message":"count:  115440","timestamp":"2015-07-16T07:42:39.550Z"}
+{"level":"debug","message":"count:  115560","timestamp":"2015-07-16T07:52:39.744Z"}
+{"level":"debug","message":"count:  115680","timestamp":"2015-07-16T08:02:39.926Z"}
+{"level":"debug","message":"count:  115800","timestamp":"2015-07-16T08:12:40.120Z"}
+{"level":"debug","message":"count:  115920","timestamp":"2015-07-16T08:22:40.305Z"}
+{"level":"debug","message":"count:  116040","timestamp":"2015-07-16T08:32:40.517Z"}
+{"level":"debug","message":"count:  116160","timestamp":"2015-07-16T08:42:40.726Z"}
+{"level":"debug","message":"count:  116280","timestamp":"2015-07-16T08:52:40.916Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T08:54:43.305Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T08:54:43.305Z"}
+{"level":"debug","message":"count:  116400","timestamp":"2015-07-16T09:02:41.107Z"}
+{"level":"debug","message":"count:  116520","timestamp":"2015-07-16T09:12:41.307Z"}
+{"level":"debug","message":"count:  116640","timestamp":"2015-07-16T09:22:41.489Z"}
+{"level":"debug","message":"count:  116760","timestamp":"2015-07-16T09:32:41.693Z"}
+{"level":"debug","message":"count:  116880","timestamp":"2015-07-16T09:42:41.895Z"}
+{"level":"debug","message":"count:  117000","timestamp":"2015-07-16T09:52:42.093Z"}
+{"level":"debug","message":"count:  117120","timestamp":"2015-07-16T10:02:42.302Z"}
+{"level":"debug","message":"count:  117240","timestamp":"2015-07-16T10:12:42.507Z"}
+{"level":"debug","message":"count:  117360","timestamp":"2015-07-16T10:22:42.711Z"}
+{"level":"debug","message":"count:  117480","timestamp":"2015-07-16T10:32:42.921Z"}
+{"level":"debug","message":"count:  117600","timestamp":"2015-07-16T10:42:43.121Z"}
+{"level":"debug","message":"count:  117720","timestamp":"2015-07-16T10:52:43.303Z"}
+{"level":"debug","message":"count:  117840","timestamp":"2015-07-16T11:02:43.488Z"}
+{"level":"debug","message":"count:  117960","timestamp":"2015-07-16T11:12:43.699Z"}
+{"level":"debug","message":"count:  118080","timestamp":"2015-07-16T11:22:43.906Z"}
+{"level":"debug","message":"count:  118200","timestamp":"2015-07-16T11:32:44.098Z"}
+{"level":"debug","message":"count:  118320","timestamp":"2015-07-16T11:42:44.326Z"}
+{"level":"debug","message":"count:  118440","timestamp":"2015-07-16T11:52:44.516Z"}
+{"level":"debug","message":"count:  118560","timestamp":"2015-07-16T12:02:44.703Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T12:07:45.099Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T12:07:45.099Z"}
+{"level":"debug","message":"count:  118680","timestamp":"2015-07-16T12:12:44.899Z"}
+{"level":"debug","message":"count:  118800","timestamp":"2015-07-16T12:22:45.100Z"}
+{"level":"debug","message":"count:  118920","timestamp":"2015-07-16T12:32:45.300Z"}
+{"level":"debug","message":"count:  119040","timestamp":"2015-07-16T12:42:45.507Z"}
+{"level":"debug","message":"count:  119160","timestamp":"2015-07-16T12:52:45.699Z"}
+{"level":"debug","message":"count:  119280","timestamp":"2015-07-16T13:02:45.891Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T13:09:16.330Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T13:09:16.330Z"}
+{"level":"debug","message":"count:  119400","timestamp":"2015-07-16T13:12:46.085Z"}
+{"level":"debug","message":"count:  119520","timestamp":"2015-07-16T13:22:46.274Z"}
+{"level":"debug","message":"count:  119640","timestamp":"2015-07-16T13:32:46.467Z"}
+{"level":"debug","message":"count:  119760","timestamp":"2015-07-16T13:42:46.650Z"}
+{"level":"debug","message":"count:  119880","timestamp":"2015-07-16T13:52:46.825Z"}
+{"level":"debug","message":"count:  120000","timestamp":"2015-07-16T14:02:46.993Z"}
+{"level":"debug","message":"count:  120120","timestamp":"2015-07-16T14:12:47.183Z"}
+{"level":"debug","message":"count:  120240","timestamp":"2015-07-16T14:22:47.362Z"}
+{"level":"debug","message":"count:  120360","timestamp":"2015-07-16T14:32:47.548Z"}
+{"level":"debug","message":"count:  120480","timestamp":"2015-07-16T14:42:47.732Z"}
+{"level":"debug","message":"count:  120600","timestamp":"2015-07-16T14:52:47.896Z"}
+{"level":"debug","message":"count:  120720","timestamp":"2015-07-16T15:02:48.086Z"}
+{"level":"debug","message":"count:  120840","timestamp":"2015-07-16T15:12:48.274Z"}
+{"level":"debug","message":"count:  120960","timestamp":"2015-07-16T15:22:48.457Z"}
+{"level":"debug","message":"count:  121080","timestamp":"2015-07-16T15:32:48.637Z"}
+{"level":"debug","message":"count:  121200","timestamp":"2015-07-16T15:42:48.833Z"}
+{"level":"debug","message":"count:  121320","timestamp":"2015-07-16T15:52:49.009Z"}
+{"level":"debug","message":"count:  121440","timestamp":"2015-07-16T16:02:49.185Z"}
+{"level":"debug","message":"count:  121560","timestamp":"2015-07-16T16:12:49.364Z"}
+{"level":"debug","message":"count:  121680","timestamp":"2015-07-16T16:22:49.537Z"}
+{"level":"debug","message":"count:  121800","timestamp":"2015-07-16T16:32:49.716Z"}
+{"level":"debug","message":"count:  121920","timestamp":"2015-07-16T16:42:49.898Z"}
+{"level":"debug","message":"count:  122040","timestamp":"2015-07-16T16:52:50.080Z"}
+{"level":"debug","message":"count:  122160","timestamp":"2015-07-16T17:02:50.257Z"}
+{"level":"debug","message":"count:  122280","timestamp":"2015-07-16T17:12:50.436Z"}
+{"level":"debug","message":"count:  122400","timestamp":"2015-07-16T17:22:50.623Z"}
+{"level":"debug","message":"count:  122520","timestamp":"2015-07-16T17:32:50.809Z"}
+{"level":"debug","message":"count:  122640","timestamp":"2015-07-16T17:42:50.992Z"}
+{"level":"debug","message":"count:  122760","timestamp":"2015-07-16T17:52:51.174Z"}
+{"level":"debug","message":"count:  122880","timestamp":"2015-07-16T18:02:51.369Z"}
+{"level":"debug","message":"count:  123000","timestamp":"2015-07-16T18:12:51.558Z"}
+{"level":"debug","message":"count:  123120","timestamp":"2015-07-16T18:22:51.751Z"}
+{"level":"debug","message":"count:  123240","timestamp":"2015-07-16T18:32:51.937Z"}
+{"level":"debug","message":"count:  123360","timestamp":"2015-07-16T18:42:52.124Z"}
+{"level":"debug","message":"count:  123480","timestamp":"2015-07-16T18:52:52.317Z"}
+{"level":"debug","message":"count:  123600","timestamp":"2015-07-16T19:02:52.517Z"}
+{"level":"debug","message":"count:  123720","timestamp":"2015-07-16T19:12:52.710Z"}
+{"level":"debug","message":"count:  123840","timestamp":"2015-07-16T19:22:52.878Z"}
+{"level":"debug","message":"count:  123960","timestamp":"2015-07-16T19:32:53.059Z"}
+{"level":"debug","message":"count:  124080","timestamp":"2015-07-16T19:42:53.228Z"}
+{"level":"debug","message":"count:  124200","timestamp":"2015-07-16T19:52:53.402Z"}
+{"level":"debug","message":"count:  124320","timestamp":"2015-07-16T20:02:53.588Z"}
+{"level":"debug","message":"count:  124440","timestamp":"2015-07-16T20:12:53.761Z"}
+{"level":"debug","message":"count:  124560","timestamp":"2015-07-16T20:22:53.945Z"}
+{"level":"debug","message":"count:  124680","timestamp":"2015-07-16T20:32:54.140Z"}
+{"level":"debug","message":"count:  124800","timestamp":"2015-07-16T20:42:54.298Z"}
+{"level":"debug","message":"count:  124920","timestamp":"2015-07-16T20:52:54.468Z"}
+{"level":"debug","message":"count:  125040","timestamp":"2015-07-16T21:02:54.655Z"}
+{"level":"debug","message":"count:  125160","timestamp":"2015-07-16T21:12:54.834Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T21:19:33.914Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T21:19:33.914Z"}
+{"level":"debug","message":"count:  125280","timestamp":"2015-07-16T21:22:55.017Z"}
+{"level":"debug","message":"count:  125400","timestamp":"2015-07-16T21:32:55.202Z"}
+{"level":"debug","message":"count:  125520","timestamp":"2015-07-16T21:42:55.367Z"}
+{"level":"debug","message":"count:  125640","timestamp":"2015-07-16T21:52:55.552Z"}
+{"level":"debug","message":"count:  125760","timestamp":"2015-07-16T22:02:55.727Z"}
+{"level":"debug","message":"count:  125880","timestamp":"2015-07-16T22:12:55.912Z"}
+{"level":"debug","message":"count:  126000","timestamp":"2015-07-16T22:22:56.114Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T22:29:24.144Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T22:29:24.144Z"}
+{"level":"debug","message":"count:  126120","timestamp":"2015-07-16T22:32:56.299Z"}
+{"level":"debug","message":"count:  126240","timestamp":"2015-07-16T22:42:56.490Z"}
+{"level":"debug","message":"count:  126360","timestamp":"2015-07-16T22:52:56.683Z"}
+{"level":"debug","message":"count:  126480","timestamp":"2015-07-16T23:02:56.875Z"}
+{"level":"debug","message":"count:  126600","timestamp":"2015-07-16T23:12:57.062Z"}
+{"level":"debug","message":"count:  126720","timestamp":"2015-07-16T23:22:57.245Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T23:23:15.014Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T23:23:15.014Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-16T23:24:25.659Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-16T23:24:25.659Z"}
+{"level":"debug","message":"count:  126840","timestamp":"2015-07-16T23:32:57.454Z"}
+{"level":"debug","message":"count:  126960","timestamp":"2015-07-16T23:42:57.659Z"}
+{"level":"debug","message":"count:  127080","timestamp":"2015-07-16T23:52:57.846Z"}
+{"level":"debug","message":"count:  127200","timestamp":"2015-07-17T00:02:58.068Z"}
+{"level":"debug","message":"count:  127320","timestamp":"2015-07-17T00:12:58.273Z"}
+{"level":"debug","message":"count:  127440","timestamp":"2015-07-17T00:22:58.466Z"}
+{"level":"debug","message":"count:  127560","timestamp":"2015-07-17T00:32:58.677Z"}
+{"level":"debug","message":"count:  127680","timestamp":"2015-07-17T00:42:58.871Z"}
+{"level":"debug","message":"count:  127800","timestamp":"2015-07-17T00:52:59.081Z"}
+{"level":"debug","message":"count:  127920","timestamp":"2015-07-17T01:02:59.275Z"}
+{"level":"debug","message":"count:  128040","timestamp":"2015-07-17T01:12:59.471Z"}
+{"level":"debug","message":"count:  128160","timestamp":"2015-07-17T01:22:59.666Z"}
+{"level":"debug","message":"count:  128280","timestamp":"2015-07-17T01:32:59.887Z"}
+{"level":"debug","message":"count:  128400","timestamp":"2015-07-17T01:43:00.107Z"}
+{"level":"debug","message":"count:  128520","timestamp":"2015-07-17T01:53:00.315Z"}
+{"level":"debug","message":"count:  128640","timestamp":"2015-07-17T02:03:00.497Z"}
+{"level":"debug","message":"count:  128760","timestamp":"2015-07-17T02:13:00.702Z"}
+{"level":"debug","message":"count:  128880","timestamp":"2015-07-17T02:23:00.908Z"}
+{"level":"debug","message":"count:  129000","timestamp":"2015-07-17T02:33:01.125Z"}
+{"level":"debug","message":"count:  129120","timestamp":"2015-07-17T02:43:01.330Z"}
+{"level":"debug","message":"count:  129240","timestamp":"2015-07-17T02:53:01.546Z"}
+{"level":"debug","message":"count:  129360","timestamp":"2015-07-17T03:03:01.747Z"}
+{"level":"debug","message":"count:  129480","timestamp":"2015-07-17T03:13:01.939Z"}
+{"level":"debug","message":"count:  129600","timestamp":"2015-07-17T03:23:02.144Z"}
+{"level":"debug","message":"count:  129720","timestamp":"2015-07-17T03:33:02.329Z"}
+{"level":"debug","message":"count:  129840","timestamp":"2015-07-17T03:43:02.536Z"}
+{"level":"debug","message":"count:  129960","timestamp":"2015-07-17T03:53:02.736Z"}
+{"level":"debug","message":"count:  130080","timestamp":"2015-07-17T04:03:02.927Z"}
+{"level":"debug","message":"count:  130200","timestamp":"2015-07-17T04:13:03.113Z"}
+{"level":"debug","message":"count:  130320","timestamp":"2015-07-17T04:23:03.328Z"}
+{"level":"debug","message":"count:  130440","timestamp":"2015-07-17T04:33:03.547Z"}
+{"level":"debug","message":"count:  130560","timestamp":"2015-07-17T04:43:03.737Z"}
+{"level":"debug","message":"count:  130680","timestamp":"2015-07-17T04:53:03.935Z"}
+{"level":"debug","message":"count:  130800","timestamp":"2015-07-17T05:03:04.137Z"}
+{"level":"debug","message":"count:  130920","timestamp":"2015-07-17T05:13:04.362Z"}
+{"level":"debug","message":"count:  131040","timestamp":"2015-07-17T05:23:04.570Z"}
+{"level":"debug","message":"count:  131160","timestamp":"2015-07-17T05:33:04.757Z"}
+{"level":"debug","message":"count:  131280","timestamp":"2015-07-17T05:43:04.951Z"}
+{"level":"debug","message":"count:  131400","timestamp":"2015-07-17T05:53:05.146Z"}
+{"level":"debug","message":"count:  131520","timestamp":"2015-07-17T06:03:05.317Z"}
+{"level":"debug","message":"count:  131640","timestamp":"2015-07-17T06:13:05.530Z"}
+{"level":"debug","message":"count:  131760","timestamp":"2015-07-17T06:23:05.725Z"}
+{"level":"debug","message":"count:  131880","timestamp":"2015-07-17T06:33:05.930Z"}
+{"level":"debug","message":"count:  132000","timestamp":"2015-07-17T06:43:06.127Z"}
+{"level":"debug","message":"count:  132120","timestamp":"2015-07-17T06:53:06.326Z"}
+{"level":"debug","message":"count:  132240","timestamp":"2015-07-17T07:03:06.525Z"}
+{"level":"debug","message":"count:  132360","timestamp":"2015-07-17T07:13:06.725Z"}
+{"level":"debug","message":"count:  132480","timestamp":"2015-07-17T07:23:06.913Z"}
+{"level":"debug","message":"count:  132600","timestamp":"2015-07-17T07:33:07.117Z"}
+{"level":"debug","message":"count:  132720","timestamp":"2015-07-17T07:43:07.299Z"}
+{"level":"debug","message":"count:  132840","timestamp":"2015-07-17T07:53:07.487Z"}
+{"level":"debug","message":"count:  132960","timestamp":"2015-07-17T08:03:07.685Z"}
+{"level":"debug","message":"count:  133080","timestamp":"2015-07-17T08:13:07.884Z"}
+{"level":"debug","message":"count:  133200","timestamp":"2015-07-17T08:23:08.058Z"}
+{"level":"debug","message":"count:  133320","timestamp":"2015-07-17T08:33:08.243Z"}
+{"level":"debug","message":"count:  133440","timestamp":"2015-07-17T08:43:08.437Z"}
+{"level":"debug","message":"count:  133560","timestamp":"2015-07-17T08:53:08.628Z"}
+{"level":"debug","message":"count:  133680","timestamp":"2015-07-17T09:03:08.827Z"}
+{"level":"debug","message":"count:  133800","timestamp":"2015-07-17T09:13:09.027Z"}
+{"level":"debug","message":"count:  133920","timestamp":"2015-07-17T09:23:09.223Z"}
+{"level":"debug","message":"count:  134040","timestamp":"2015-07-17T09:33:09.418Z"}
+{"level":"debug","message":"count:  134160","timestamp":"2015-07-17T09:43:09.628Z"}
+{"level":"debug","message":"count:  134280","timestamp":"2015-07-17T09:53:09.842Z"}
+{"level":"debug","message":"count:  134400","timestamp":"2015-07-17T10:03:10.035Z"}
+{"level":"debug","message":"count:  134520","timestamp":"2015-07-17T10:13:10.207Z"}
+{"level":"debug","message":"count:  134640","timestamp":"2015-07-17T10:23:10.398Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-17T10:30:13.810Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-17T10:30:13.810Z"}
+{"level":"debug","message":"count:  134760","timestamp":"2015-07-17T10:33:10.579Z"}
+{"level":"debug","message":"count:  134880","timestamp":"2015-07-17T10:43:10.759Z"}
+{"level":"debug","message":"count:  135000","timestamp":"2015-07-17T10:53:10.943Z"}
+{"level":"debug","message":"count:  135120","timestamp":"2015-07-17T11:03:11.143Z"}
+{"level":"debug","message":"count:  135240","timestamp":"2015-07-17T11:13:11.337Z"}
+{"level":"debug","message":"count:  135360","timestamp":"2015-07-17T11:23:11.520Z"}
+{"level":"debug","message":"count:  135480","timestamp":"2015-07-17T11:33:11.708Z"}
+{"level":"debug","message":"count:  135600","timestamp":"2015-07-17T11:43:11.906Z"}
+{"level":"debug","message":"count:  135720","timestamp":"2015-07-17T11:53:12.096Z"}
+{"level":"debug","message":"count:  135840","timestamp":"2015-07-17T12:03:12.299Z"}
+{"level":"debug","message":"count:  135960","timestamp":"2015-07-17T12:13:12.479Z"}
+{"level":"debug","message":"count:  136080","timestamp":"2015-07-17T12:23:12.671Z"}
+{"level":"debug","message":"count:  136200","timestamp":"2015-07-17T12:33:12.861Z"}
+{"level":"debug","message":"count:  136320","timestamp":"2015-07-17T12:43:13.054Z"}
+{"level":"debug","message":"count:  136440","timestamp":"2015-07-17T12:53:13.243Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-17T12:56:25.562Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-17T12:56:25.562Z"}
+{"level":"debug","message":"count:  136560","timestamp":"2015-07-17T13:03:13.413Z"}
+{"level":"debug","message":"count:  136680","timestamp":"2015-07-17T13:13:13.585Z"}
+{"level":"debug","message":"count:  136800","timestamp":"2015-07-17T13:23:13.757Z"}
+{"level":"debug","message":"count:  136920","timestamp":"2015-07-17T13:33:13.949Z"}
+{"level":"debug","message":"count:  137040","timestamp":"2015-07-17T13:43:14.129Z"}
+{"level":"debug","message":"count:  137160","timestamp":"2015-07-17T13:53:14.297Z"}
+{"level":"debug","message":"count:  137280","timestamp":"2015-07-17T14:03:14.483Z"}
+{"level":"debug","message":"count:  137400","timestamp":"2015-07-17T14:13:14.669Z"}
+{"level":"debug","message":"count:  137520","timestamp":"2015-07-17T14:23:14.829Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-17T14:25:35.174Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-17T14:25:35.174Z"}
+{"level":"debug","message":"count:  137640","timestamp":"2015-07-17T14:33:15.004Z"}
+{"level":"debug","message":"count:  137760","timestamp":"2015-07-17T14:43:15.190Z"}
+{"level":"debug","message":"count:  137880","timestamp":"2015-07-17T14:53:15.368Z"}
+{"level":"debug","message":"count:  138000","timestamp":"2015-07-17T15:03:15.552Z"}
+{"level":"debug","message":"count:  138120","timestamp":"2015-07-17T15:13:15.742Z"}
+{"level":"debug","message":"count:  138240","timestamp":"2015-07-17T15:23:15.929Z"}
+{"level":"debug","message":"count:  138360","timestamp":"2015-07-17T15:33:16.115Z"}
+{"level":"debug","message":"count:  138480","timestamp":"2015-07-17T15:43:16.292Z"}
+{"level":"debug","message":"count:  138600","timestamp":"2015-07-17T15:53:16.483Z"}
+{"level":"debug","message":"count:  138720","timestamp":"2015-07-17T16:03:16.679Z"}
+{"level":"debug","message":"count:  138840","timestamp":"2015-07-17T16:13:16.852Z"}
+{"level":"debug","message":"count:  138960","timestamp":"2015-07-17T16:23:17.044Z"}
+{"level":"debug","message":"count:  139080","timestamp":"2015-07-17T16:33:17.228Z"}
+{"level":"debug","message":"count:  139200","timestamp":"2015-07-17T16:43:17.436Z"}
+{"level":"debug","message":"count:  139320","timestamp":"2015-07-17T16:53:17.623Z"}
+{"level":"debug","message":"count:  139440","timestamp":"2015-07-17T17:03:17.816Z"}
+{"level":"debug","message":"count:  139560","timestamp":"2015-07-17T17:13:18.008Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-17T17:15:21.763Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-17T17:15:21.763Z"}
+{"level":"debug","message":"count:  139680","timestamp":"2015-07-17T17:23:18.182Z"}
+{"level":"debug","message":"count:  139800","timestamp":"2015-07-17T17:33:18.356Z"}
+{"level":"debug","message":"count:  139920","timestamp":"2015-07-17T17:43:18.538Z"}
+{"level":"debug","message":"count:  140040","timestamp":"2015-07-17T17:53:18.729Z"}
+{"level":"debug","message":"count:  140160","timestamp":"2015-07-17T18:03:18.912Z"}
+{"level":"debug","message":"count:  140280","timestamp":"2015-07-17T18:13:19.103Z"}
+{"level":"debug","message":"count:  140400","timestamp":"2015-07-17T18:23:19.283Z"}
+{"level":"debug","message":"count:  140520","timestamp":"2015-07-17T18:33:19.450Z"}
+{"level":"debug","message":"count:  140640","timestamp":"2015-07-17T18:43:19.644Z"}
+{"level":"debug","message":"count:  140760","timestamp":"2015-07-17T18:53:19.822Z"}
+{"level":"debug","message":"count:  140880","timestamp":"2015-07-17T19:03:20.012Z"}
+{"level":"debug","message":"count:  141000","timestamp":"2015-07-17T19:13:20.212Z"}
+{"level":"debug","message":"count:  141120","timestamp":"2015-07-17T19:23:20.397Z"}
+{"level":"debug","message":"count:  141240","timestamp":"2015-07-17T19:33:20.592Z"}
+{"level":"debug","message":"count:  141360","timestamp":"2015-07-17T19:43:20.791Z"}
+{"level":"debug","message":"count:  141480","timestamp":"2015-07-17T19:53:20.987Z"}
+{"level":"debug","message":"count:  141600","timestamp":"2015-07-17T20:03:21.176Z"}
+{"level":"debug","message":"count:  141720","timestamp":"2015-07-17T20:13:21.345Z"}
+{"level":"debug","message":"count:  141840","timestamp":"2015-07-17T20:23:21.518Z"}
+{"level":"debug","message":"count:  141960","timestamp":"2015-07-17T20:33:21.696Z"}
+{"level":"debug","message":"count:  142080","timestamp":"2015-07-17T20:43:21.872Z"}
+{"level":"debug","message":"count:  142200","timestamp":"2015-07-17T20:53:22.061Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-17T20:58:42.481Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-17T20:58:42.481Z"}
+{"level":"debug","message":"count:  142320","timestamp":"2015-07-17T21:03:22.256Z"}
+{"level":"debug","message":"count:  142440","timestamp":"2015-07-17T21:13:22.447Z"}
+{"level":"debug","message":"count:  142560","timestamp":"2015-07-17T21:23:22.620Z"}
+{"level":"debug","message":"count:  142680","timestamp":"2015-07-17T21:33:22.796Z"}
+{"level":"debug","message":"count:  142800","timestamp":"2015-07-17T21:43:22.973Z"}
+{"level":"debug","message":"count:  142920","timestamp":"2015-07-17T21:53:23.153Z"}
+{"level":"debug","message":"count:  143040","timestamp":"2015-07-17T22:03:23.331Z"}
+{"level":"debug","message":"count:  143160","timestamp":"2015-07-17T22:13:23.523Z"}
+{"level":"debug","message":"count:  143280","timestamp":"2015-07-17T22:23:23.707Z"}
+{"level":"debug","message":"count:  143400","timestamp":"2015-07-17T22:33:23.897Z"}
+{"level":"debug","message":"count:  143520","timestamp":"2015-07-17T22:43:24.088Z"}
+{"level":"debug","message":"count:  143640","timestamp":"2015-07-17T22:53:24.265Z"}
+{"level":"debug","message":"count:  143760","timestamp":"2015-07-17T23:03:24.469Z"}
+{"level":"debug","message":"count:  143880","timestamp":"2015-07-17T23:13:24.683Z"}
+{"level":"debug","message":"count:  144000","timestamp":"2015-07-17T23:23:24.886Z"}
+{"level":"debug","message":"count:  144120","timestamp":"2015-07-17T23:33:25.078Z"}
+{"level":"debug","message":"count:  144240","timestamp":"2015-07-17T23:43:25.299Z"}
+{"level":"debug","message":"count:  144360","timestamp":"2015-07-17T23:53:25.510Z"}
+{"level":"debug","message":"count:  144480","timestamp":"2015-07-18T00:03:25.723Z"}
+{"level":"debug","message":"count:  144600","timestamp":"2015-07-18T00:13:25.927Z"}
+{"level":"debug","message":"count:  144720","timestamp":"2015-07-18T00:23:26.125Z"}
+{"level":"debug","message":"count:  144840","timestamp":"2015-07-18T00:33:26.334Z"}
+{"level":"debug","message":"count:  144960","timestamp":"2015-07-18T00:43:26.515Z"}
+{"level":"debug","message":"count:  145080","timestamp":"2015-07-18T00:53:26.718Z"}
+{"level":"debug","message":"count:  145200","timestamp":"2015-07-18T01:03:26.908Z"}
+{"level":"debug","message":"count:  145320","timestamp":"2015-07-18T01:13:27.102Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-18T01:21:49.627Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-18T01:21:49.627Z"}
+{"level":"debug","message":"count:  145440","timestamp":"2015-07-18T01:23:27.306Z"}
+{"level":"debug","message":"count:  145560","timestamp":"2015-07-18T01:33:27.518Z"}
+{"level":"debug","message":"count:  145680","timestamp":"2015-07-18T01:43:27.724Z"}
+{"level":"debug","message":"count:  145800","timestamp":"2015-07-18T01:53:27.901Z"}
+{"level":"debug","message":"count:  145920","timestamp":"2015-07-18T02:03:28.077Z"}
+{"level":"debug","message":"count:  146040","timestamp":"2015-07-18T02:13:28.274Z"}
+{"level":"debug","message":"count:  146160","timestamp":"2015-07-18T02:23:28.479Z"}
+{"level":"debug","message":"count:  146280","timestamp":"2015-07-18T02:33:28.680Z"}
+{"level":"debug","message":"count:  146400","timestamp":"2015-07-18T02:43:28.876Z"}
+{"level":"debug","message":"count:  146520","timestamp":"2015-07-18T02:53:29.085Z"}
+{"level":"debug","message":"count:  146640","timestamp":"2015-07-18T03:03:29.290Z"}
+{"level":"debug","message":"count:  146760","timestamp":"2015-07-18T03:13:29.504Z"}
+{"level":"debug","message":"count:  146880","timestamp":"2015-07-18T03:23:29.693Z"}
+{"level":"debug","message":"count:  147000","timestamp":"2015-07-18T03:33:29.883Z"}
+{"level":"debug","message":"count:  147120","timestamp":"2015-07-18T03:43:30.095Z"}
+{"level":"debug","message":"count:  147240","timestamp":"2015-07-18T03:53:30.303Z"}
+{"level":"debug","message":"count:  147360","timestamp":"2015-07-18T04:03:30.517Z"}
+{"level":"debug","message":"count:  147480","timestamp":"2015-07-18T04:13:30.727Z"}
+{"level":"debug","message":"count:  147600","timestamp":"2015-07-18T04:23:30.918Z"}
+{"level":"debug","message":"count:  147720","timestamp":"2015-07-18T04:33:31.125Z"}
+{"level":"debug","message":"count:  147840","timestamp":"2015-07-18T04:43:31.332Z"}
+{"level":"debug","message":"count:  147960","timestamp":"2015-07-18T04:53:31.543Z"}
+{"level":"debug","message":"count:  148080","timestamp":"2015-07-18T05:03:31.742Z"}
+{"level":"debug","message":"count:  148200","timestamp":"2015-07-18T05:13:31.964Z"}
+{"level":"debug","message":"count:  148320","timestamp":"2015-07-18T05:23:32.182Z"}
+{"level":"debug","message":"count:  148440","timestamp":"2015-07-18T05:33:32.395Z"}
+{"level":"debug","message":"count:  148560","timestamp":"2015-07-18T05:43:32.587Z"}
+{"level":"debug","message":"count:  148680","timestamp":"2015-07-18T05:53:32.776Z"}
+{"level":"debug","message":"count:  148800","timestamp":"2015-07-18T06:03:32.972Z"}
+{"level":"debug","message":"count:  148920","timestamp":"2015-07-18T06:13:33.185Z"}
+{"level":"debug","message":"count:  149040","timestamp":"2015-07-18T06:23:33.397Z"}
+{"level":"debug","message":"count:  149160","timestamp":"2015-07-18T06:33:33.577Z"}
+{"level":"debug","message":"count:  149280","timestamp":"2015-07-18T06:43:33.755Z"}
+{"level":"debug","message":"count:  149400","timestamp":"2015-07-18T06:53:33.946Z"}
+{"level":"debug","message":"count:  149520","timestamp":"2015-07-18T07:03:34.156Z"}
+{"level":"debug","message":"count:  149640","timestamp":"2015-07-18T07:13:34.348Z"}
+{"level":"debug","message":"count:  149760","timestamp":"2015-07-18T07:23:34.542Z"}
+{"level":"debug","message":"count:  149880","timestamp":"2015-07-18T07:33:34.730Z"}
+{"level":"debug","message":"count:  150000","timestamp":"2015-07-18T07:43:34.930Z"}
+{"level":"debug","message":"count:  150120","timestamp":"2015-07-18T07:53:35.119Z"}
+{"level":"debug","message":"count:  150240","timestamp":"2015-07-18T08:03:35.340Z"}
+{"level":"debug","message":"count:  150360","timestamp":"2015-07-18T08:13:35.547Z"}
+{"level":"debug","message":"count:  150480","timestamp":"2015-07-18T08:23:35.745Z"}
+{"level":"debug","message":"count:  150600","timestamp":"2015-07-18T08:33:35.945Z"}
+{"level":"debug","message":"count:  150720","timestamp":"2015-07-18T08:43:36.162Z"}
+{"level":"debug","message":"count:  150840","timestamp":"2015-07-18T08:53:36.367Z"}
+{"level":"debug","message":"count:  150960","timestamp":"2015-07-18T09:03:36.579Z"}
+{"level":"debug","message":"count:  151080","timestamp":"2015-07-18T09:13:36.788Z"}
+{"level":"debug","message":"count:  151200","timestamp":"2015-07-18T09:23:37.008Z"}
+{"level":"debug","message":"count:  151320","timestamp":"2015-07-18T09:33:37.212Z"}
+{"level":"debug","message":"count:  151440","timestamp":"2015-07-18T09:43:37.414Z"}
+{"level":"debug","message":"count:  151560","timestamp":"2015-07-18T09:53:37.626Z"}
+{"level":"debug","message":"count:  151680","timestamp":"2015-07-18T10:03:37.813Z"}
+{"level":"debug","message":"count:  151800","timestamp":"2015-07-18T10:13:38.018Z"}
+{"level":"debug","message":"count:  151920","timestamp":"2015-07-18T10:23:38.212Z"}
+{"level":"debug","message":"count:  152040","timestamp":"2015-07-18T10:33:38.417Z"}
+{"level":"debug","message":"count:  152160","timestamp":"2015-07-18T10:43:38.620Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-07-18T10:49:39.063Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-07-18T10:49:39.064Z"}
+{"level":"debug","message":"count:  152280","timestamp":"2015-07-18T10:53:38.831Z"}
+{"level":"debug","message":"count:  152400","timestamp":"2015-07-18T11:03:39.018Z"}
+{"level":"debug","message":"count:  152520","timestamp":"2015-07-18T11:13:39.216Z"}
+{"level":"debug","message":"count:  152640","timestamp":"2015-07-18T11:23:39.399Z"}
+{"level":"debug","message":"count:  152760","timestamp":"2015-07-18T11:33:39.601Z"}
+{"level":"debug","message":"count:  152880","timestamp":"2015-07-18T11:43:39.811Z"}
+{"level":"debug","message":"count:  153000","timestamp":"2015-07-18T11:53:40.019Z"}
+{"level":"debug","message":"count:  153120","timestamp":"2015-07-18T12:03:40.249Z"}
+{"level":"debug","message":"count:  153240","timestamp":"2015-07-18T12:13:40.440Z"}
+{"level":"debug","message":"count:  153360","timestamp":"2015-07-18T12:23:40.655Z"}
+{"level":"debug","message":"count:  153480","timestamp":"2015-07-18T12:33:40.873Z"}
+{"level":"debug","message":"count:  153600","timestamp":"2015-07-18T12:43:41.092Z"}
+{"level":"debug","message":"count:  153720","timestamp":"2015-07-18T12:53:41.311Z"}
+{"level":"debug","message":"count:  153840","timestamp":"2015-07-18T13:03:41.522Z"}
+{"level":"debug","message":"count:  153960","timestamp":"2015-07-18T13:13:41.686Z"}
+{"level":"debug","message":"count:  154080","timestamp":"2015-07-18T13:23:41.889Z"}
+{"level":"debug","message":"count:  154200","timestamp":"2015-07-18T13:33:42.075Z"}
+{"level":"debug","message":"count:  154320","timestamp":"2015-07-18T13:43:42.283Z"}
+{"level":"debug","message":"count:  154440","timestamp":"2015-07-18T13:53:42.493Z"}
+{"level":"debug","message":"count:  154560","timestamp":"2015-07-18T14:03:42.690Z"}
+{"level":"debug","message":"count:  154680","timestamp":"2015-07-18T14:13:42.904Z"}
+{"level":"debug","message":"count:  154800","timestamp":"2015-07-18T14:23:43.107Z"}
+{"level":"debug","message":"count:  154920","timestamp":"2015-07-18T14:33:43.316Z"}
+{"level":"debug","message":"count:  155040","timestamp":"2015-07-18T14:43:43.540Z"}
+{"level":"debug","message":"count:  155160","timestamp":"2015-07-18T14:53:43.758Z"}
+{"level":"debug","message":"count:  155280","timestamp":"2015-07-18T15:03:43.977Z"}
+{"level":"debug","message":"count:  155400","timestamp":"2015-07-18T15:13:44.198Z"}
+{"level":"debug","message":"count:  155520","timestamp":"2015-07-18T15:23:44.421Z"}
+{"level":"debug","message":"count:  155640","timestamp":"2015-07-18T15:33:44.636Z"}
+{"level":"debug","message":"count:  155760","timestamp":"2015-07-18T15:43:44.827Z"}
+{"level":"debug","message":"count:  155880","timestamp":"2015-07-18T15:53:45.038Z"}
+{"level":"debug","message":"count:  156000","timestamp":"2015-07-18T16:03:45.243Z"}
+{"level":"debug","message":"count:  156120","timestamp":"2015-07-18T16:13:45.457Z"}
+{"level":"debug","message":"count:  156240","timestamp":"2015-07-18T16:23:45.642Z"}
+{"level":"debug","message":"count:  156360","timestamp":"2015-07-18T16:33:45.838Z"}
+{"level":"debug","message":"count:  156480","timestamp":"2015-07-18T16:43:46.043Z"}
+{"level":"debug","message":"count:  156600","timestamp":"2015-07-18T16:53:46.244Z"}
+{"level":"debug","message":"count:  156720","timestamp":"2015-07-18T17:03:46.449Z"}
+{"level":"debug","message":"count:  156840","timestamp":"2015-07-18T17:13:46.642Z"}
+{"level":"debug","message":"count:  156960","timestamp":"2015-07-18T17:23:46.852Z"}
+{"level":"debug","message":"count:  157080","timestamp":"2015-07-18T17:33:47.053Z"}
+{"level":"debug","message":"count:  157200","timestamp":"2015-07-18T17:43:47.248Z"}
+{"level":"debug","message":"count:  157320","timestamp":"2015-07-18T17:53:47.465Z"}
+{"level":"debug","message":"count:  157440","timestamp":"2015-07-18T18:03:47.663Z"}
+{"level":"debug","message":"count:  157560","timestamp":"2015-07-18T18:13:47.850Z"}
+{"level":"debug","message":"count:  157680","timestamp":"2015-07-18T18:23:48.053Z"}
+{"level":"debug","message":"count:  157800","timestamp":"2015-07-18T18:33:48.240Z"}
+{"level":"debug","message":"count:  157920","timestamp":"2015-07-18T18:43:48.453Z"}
+{"level":"debug","message":"count:  158040","timestamp":"2015-07-18T18:53:48.673Z"}
+{"level":"debug","message":"count:  158160","timestamp":"2015-07-18T19:03:48.872Z"}
+{"level":"debug","message":"count:  158280","timestamp":"2015-07-18T19:13:49.070Z"}
+{"level":"debug","message":"count:  158400","timestamp":"2015-07-18T19:23:49.269Z"}
+{"level":"debug","message":"count:  158520","timestamp":"2015-07-18T19:33:49.457Z"}
+{"level":"debug","message":"count:  158640","timestamp":"2015-07-18T19:43:49.645Z"}
+{"level":"debug","message":"count:  158760","timestamp":"2015-07-18T19:53:49.841Z"}
+{"level":"debug","message":"count:  158880","timestamp":"2015-07-18T20:03:50.054Z"}
+{"level":"debug","message":"count:  159000","timestamp":"2015-07-18T20:13:50.235Z"}
+{"level":"debug","message":"count:  159120","timestamp":"2015-07-18T20:23:50.412Z"}
+{"level":"debug","message":"count:  159240","timestamp":"2015-07-18T20:33:50.602Z"}
+{"level":"debug","message":"count:  159360","timestamp":"2015-07-18T20:43:50.799Z"}
+{"level":"debug","message":"count:  159480","timestamp":"2015-07-18T20:53:50.996Z"}
+{"level":"debug","message":"count:  159600","timestamp":"2015-07-18T21:03:51.187Z"}
+{"level":"debug","message":"count:  159720","timestamp":"2015-07-18T21:13:51.388Z"}
+{"level":"debug","message":"count:  159840","timestamp":"2015-07-18T21:23:51.589Z"}
+{"level":"debug","message":"count:  159960","timestamp":"2015-07-18T21:33:51.792Z"}
+{"level":"debug","message":"count:  160080","timestamp":"2015-07-18T21:43:51.978Z"}
+{"level":"debug","message":"count:  160200","timestamp":"2015-07-18T21:53:52.178Z"}
+{"level":"debug","message":"count:  160320","timestamp":"2015-07-18T22:03:52.379Z"}
+{"level":"debug","message":"count:  160440","timestamp":"2015-07-18T22:13:52.578Z"}
+{"level":"debug","message":"count:  160560","timestamp":"2015-07-18T22:23:52.783Z"}
+{"level":"debug","message":"count:  160680","timestamp":"2015-07-18T22:33:52.983Z"}
+{"level":"debug","message":"count:  160800","timestamp":"2015-07-18T22:43:53.180Z"}
+{"level":"debug","message":"count:  160920","timestamp":"2015-07-18T22:53:53.393Z"}
+{"level":"debug","message":"count:  161040","timestamp":"2015-07-18T23:03:53.558Z"}
+{"level":"debug","message":"count:  161160","timestamp":"2015-07-18T23:13:53.736Z"}
+{"level":"debug","message":"count:  161280","timestamp":"2015-07-18T23:23:53.924Z"}
+{"level":"debug","message":"count:  161400","timestamp":"2015-07-18T23:33:54.130Z"}
+{"level":"debug","message":"count:  161520","timestamp":"2015-07-18T23:43:54.354Z"}
+{"level":"debug","message":"count:  161640","timestamp":"2015-07-18T23:53:54.573Z"}
+{"level":"debug","message":"count:  161760","timestamp":"2015-07-19T00:03:54.765Z"}
+{"level":"debug","message":"count:  161880","timestamp":"2015-07-19T00:13:54.979Z"}
+{"level":"debug","message":"count:  162000","timestamp":"2015-07-19T00:23:55.201Z"}
+{"level":"debug","message":"count:  162120","timestamp":"2015-07-19T00:33:55.401Z"}
+{"level":"debug","message":"count:  162240","timestamp":"2015-07-19T00:43:55.593Z"}
+{"level":"debug","message":"count:  162360","timestamp":"2015-07-19T00:53:55.801Z"}
+{"level":"debug","message":"count:  162480","timestamp":"2015-07-19T01:03:55.992Z"}
+{"level":"debug","message":"count:  162600","timestamp":"2015-07-19T01:13:56.197Z"}
+{"level":"debug","message":"count:  162720","timestamp":"2015-07-19T01:23:56.398Z"}
+{"level":"debug","message":"count:  162840","timestamp":"2015-07-19T01:33:56.618Z"}
+{"level":"debug","message":"count:  162960","timestamp":"2015-07-19T01:43:56.821Z"}
+{"level":"debug","message":"count:  163080","timestamp":"2015-07-19T01:53:57.025Z"}
+{"level":"debug","message":"count:  163200","timestamp":"2015-07-19T02:03:57.221Z"}
+{"level":"debug","message":"count:  163320","timestamp":"2015-07-19T02:13:57.412Z"}
+{"level":"debug","message":"count:  163440","timestamp":"2015-07-19T02:23:57.600Z"}
+{"level":"debug","message":"count:  163560","timestamp":"2015-07-19T02:33:57.783Z"}
+{"level":"debug","message":"count:  163680","timestamp":"2015-07-19T02:43:57.970Z"}
+{"level":"debug","message":"count:  163800","timestamp":"2015-07-19T02:53:58.175Z"}
+{"level":"debug","message":"count:  163920","timestamp":"2015-07-19T03:03:58.366Z"}
+{"level":"debug","message":"count:  164040","timestamp":"2015-07-19T03:13:58.584Z"}
+{"level":"debug","message":"count:  164160","timestamp":"2015-07-19T03:23:58.794Z"}
+{"level":"debug","message":"count:  164280","timestamp":"2015-07-19T03:33:58.981Z"}
+{"level":"debug","message":"count:  164400","timestamp":"2015-07-19T03:43:59.183Z"}
+{"level":"debug","message":"count:  164520","timestamp":"2015-07-19T03:53:59.387Z"}
+{"level":"debug","message":"count:  164640","timestamp":"2015-07-19T04:03:59.598Z"}
+{"level":"debug","message":"count:  164760","timestamp":"2015-07-19T04:13:59.787Z"}
+{"level":"debug","message":"count:  164880","timestamp":"2015-07-19T04:23:59.992Z"}
+{"level":"debug","message":"count:  165000","timestamp":"2015-07-19T04:34:00.198Z"}
+{"level":"debug","message":"count:  165120","timestamp":"2015-07-19T04:44:00.418Z"}
+{"level":"debug","message":"count:  165240","timestamp":"2015-07-19T04:54:00.819Z"}
+{"level":"debug","message":"count:  165360","timestamp":"2015-07-19T05:04:01.248Z"}
+{"level":"debug","message":"count:  165480","timestamp":"2015-07-19T05:14:01.724Z"}
+{"level":"debug","message":"count:  165600","timestamp":"2015-07-19T05:24:02.160Z"}
+{"level":"debug","message":"count:  165720","timestamp":"2015-07-19T05:34:02.615Z"}
+{"level":"debug","message":"count:  165840","timestamp":"2015-07-19T05:44:03.068Z"}
+{"level":"debug","message":"count:  165960","timestamp":"2015-07-19T05:54:03.509Z"}
+{"level":"debug","message":"count:  166080","timestamp":"2015-07-19T06:04:03.957Z"}
+{"level":"debug","message":"count:  166200","timestamp":"2015-07-19T06:14:04.416Z"}
+{"level":"debug","message":"count:  166320","timestamp":"2015-07-19T06:24:04.851Z"}
+{"level":"debug","message":"count:  166440","timestamp":"2015-07-19T06:34:05.333Z"}
+{"level":"debug","message":"count:  166560","timestamp":"2015-07-19T06:44:05.791Z"}
+{"level":"debug","message":"count:  166680","timestamp":"2015-07-19T06:54:06.225Z"}
+{"level":"debug","message":"count:  166800","timestamp":"2015-07-19T07:04:06.687Z"}
+{"level":"debug","message":"count:  166920","timestamp":"2015-07-19T07:14:07.151Z"}
+{"level":"debug","message":"count:  167040","timestamp":"2015-07-19T07:24:07.667Z"}
+{"level":"debug","message":"count:  167160","timestamp":"2015-07-19T07:34:08.108Z"}
+{"level":"debug","message":"count:  167280","timestamp":"2015-07-19T07:44:08.584Z"}
+{"level":"debug","message":"count:  167400","timestamp":"2015-07-19T07:54:09.061Z"}
+{"level":"debug","message":"count:  167520","timestamp":"2015-07-19T08:04:09.538Z"}
+{"level":"debug","message":"count:  167640","timestamp":"2015-07-19T08:14:09.985Z"}
+{"level":"debug","message":"count:  167760","timestamp":"2015-07-19T08:24:10.445Z"}
+{"level":"debug","message":"count:  167880","timestamp":"2015-07-19T08:34:10.919Z"}
+{"level":"debug","message":"count:  168000","timestamp":"2015-07-19T08:44:11.412Z"}
+{"level":"debug","message":"count:  168120","timestamp":"2015-07-19T08:54:11.837Z"}
+{"level":"debug","message":"count:  168240","timestamp":"2015-07-19T09:04:12.297Z"}
+{"level":"debug","message":"count:  168360","timestamp":"2015-07-19T09:14:12.753Z"}
+{"level":"debug","message":"count:  168480","timestamp":"2015-07-19T09:24:13.233Z"}
+{"level":"debug","message":"count:  168600","timestamp":"2015-07-19T09:34:13.704Z"}
+{"level":"debug","message":"count:  168720","timestamp":"2015-07-19T09:44:14.184Z"}
+{"level":"debug","message":"count:  168840","timestamp":"2015-07-19T09:54:14.663Z"}
+{"level":"debug","message":"count:  168960","timestamp":"2015-07-19T10:04:15.088Z"}
+{"level":"debug","message":"count:  169080","timestamp":"2015-07-19T10:14:15.562Z"}
+{"level":"debug","message":"count:  169200","timestamp":"2015-07-19T10:24:16.030Z"}
+{"level":"debug","message":"count:  169320","timestamp":"2015-07-19T10:34:16.488Z"}
+{"level":"debug","message":"count:  169440","timestamp":"2015-07-19T10:44:16.924Z"}
+{"level":"debug","message":"count:  169560","timestamp":"2015-07-19T10:54:17.406Z"}
+{"level":"debug","message":"count:  169680","timestamp":"2015-07-19T11:04:17.887Z"}
+{"level":"debug","message":"count:  169800","timestamp":"2015-07-19T11:14:18.332Z"}
+{"level":"debug","message":"count:  169920","timestamp":"2015-07-19T11:24:18.815Z"}
+{"level":"debug","message":"count:  170040","timestamp":"2015-07-19T11:34:19.289Z"}
+{"level":"debug","message":"count:  170160","timestamp":"2015-07-19T11:44:19.747Z"}
+{"level":"debug","message":"count:  170280","timestamp":"2015-07-19T11:54:20.224Z"}
+{"level":"debug","message":"count:  170400","timestamp":"2015-07-19T12:04:20.697Z"}
+{"level":"debug","message":"count:  170520","timestamp":"2015-07-19T12:14:21.192Z"}
+{"level":"debug","message":"count:  170640","timestamp":"2015-07-19T12:24:21.669Z"}
+{"level":"debug","message":"count:  170760","timestamp":"2015-07-19T12:34:22.141Z"}
+{"level":"debug","message":"count:  170880","timestamp":"2015-07-19T12:44:22.601Z"}
+{"level":"debug","message":"count:  171000","timestamp":"2015-07-19T12:54:23.067Z"}
+{"level":"debug","message":"count:  171120","timestamp":"2015-07-19T13:04:23.543Z"}
+{"level":"debug","message":"count:  171240","timestamp":"2015-07-19T13:14:23.989Z"}
+{"level":"debug","message":"count:  171360","timestamp":"2015-07-19T13:24:24.449Z"}
+{"level":"debug","message":"count:  171480","timestamp":"2015-07-19T13:34:24.927Z"}
+{"level":"debug","message":"count:  171600","timestamp":"2015-07-19T13:44:25.747Z"}
+{"level":"debug","message":"count:  171720","timestamp":"2015-07-19T13:54:26.562Z"}
+{"level":"debug","message":"count:  171840","timestamp":"2015-07-19T14:04:28.063Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-08T13:57:32.789Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-08T14:12:34.838Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-08T14:22:35.151Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-08T14:32:35.449Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-08T14:42:35.734Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-08T15:10:31.626Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-09T01:47:08.997Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-09T01:57:09.299Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-09T02:07:09.561Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-09T02:17:09.798Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-09T02:27:10.062Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-09T09:48:54.599Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T09:50:44.677Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T09:50:44.678Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T09:54:34.787Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T09:54:34.788Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-09T09:58:54.905Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-09T10:08:55.204Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-09T10:12:56.204Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T10:12:56.205Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-09T10:18:55.489Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-09T10:28:55.769Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T10:32:40.897Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T10:32:40.898Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-08-09T10:38:56.052Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T10:44:31.219Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T10:44:31.220Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-08-09T10:48:56.311Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T10:54:31.459Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T10:54:31.460Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-08-09T10:58:56.546Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-08-09T11:08:56.834Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-08-09T11:18:57.061Z"}
+{"level":"debug","message":"count:  1320","timestamp":"2015-08-09T11:28:57.336Z"}
+{"level":"debug","message":"count:  1440","timestamp":"2015-08-09T11:38:57.655Z"}
+{"level":"debug","message":"count:  1560","timestamp":"2015-08-09T11:48:57.885Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T13:36:03.300Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T13:36:03.302Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-09T13:44:28.527Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T13:46:58.612Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T13:46:58.613Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-09T13:54:28.811Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T13:56:13.881Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T13:56:13.882Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-09T14:04:29.112Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:14:14.364Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:14:14.366Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-09T14:14:29.362Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:16:19.426Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:16:19.426Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:23:59.638Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:23:59.638Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-09T14:24:29.645Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:26:24.707Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:26:24.707Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-08-09T14:34:29.901Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-08-09T14:44:30.214Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:46:25.267Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:46:25.268Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-08-09T14:54:30.458Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:56:25.537Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:56:25.538Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T14:56:30.543Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T14:56:30.543Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-08-09T15:04:30.706Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T15:06:35.794Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T15:06:35.795Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-08-09T15:14:30.989Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T15:19:46.734Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T15:19:46.735Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T15:19:46.736Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T15:19:46.736Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T15:19:51.723Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T15:19:51.723Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-09T15:19:51.724Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-09T15:19:51.725Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-10T04:06:58.224Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-10T04:16:58.441Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-10T04:26:58.621Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-10T04:40:18.057Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T04:48:53.204Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T04:48:53.206Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-10T04:50:18.229Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T06:19:22.707Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T06:19:22.710Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-10T06:25:52.805Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-10T06:35:53.048Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-10T06:45:53.323Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-10T06:55:53.598Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-10T07:05:53.956Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-08-10T07:15:54.319Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T07:19:24.422Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T07:19:24.423Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-08-10T07:25:54.635Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T07:29:44.756Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T07:29:44.757Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-08-10T07:35:54.950Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-08-10T07:45:55.228Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-08-10T07:55:55.501Z"}
+{"level":"debug","message":"count:  1320","timestamp":"2015-08-10T08:05:55.773Z"}
+{"level":"debug","message":"count:  1440","timestamp":"2015-08-10T08:15:56.097Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T08:19:51.224Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T08:19:51.226Z"}
+{"level":"debug","message":"count:  1560","timestamp":"2015-08-10T08:25:56.364Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-10T08:26:34.945Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T08:26:34.946Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-10T08:30:16.583Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-10T08:30:16.584Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-11T13:08:43.228Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T13:16:13.361Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T13:16:13.362Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-11T13:18:43.382Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-11T13:28:43.531Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-11T13:38:43.679Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-11T13:48:43.846Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T13:56:08.964Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T13:56:08.965Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-08-11T13:58:43.986Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-08-11T13:59:49.938Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T13:59:49.939Z"}
+{"code":"ECONNRESET","level":"debug","timestamp":"2015-08-11T13:59:50.056Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T13:59:50.056Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-08-11T14:08:44.169Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T14:16:04.306Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:16:04.308Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T14:16:04.310Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:16:04.310Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-08-11T14:18:44.331Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T14:26:54.479Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:26:54.480Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-08-11T14:28:44.487Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T14:35:53.127Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:35:53.129Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-08-11T14:38:44.664Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T14:47:48.326Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:47:48.327Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T14:48:13.405Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:48:13.406Z"}
+{"level":"debug","message":"count:  1320","timestamp":"2015-08-11T14:48:44.798Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-11T14:56:49.937Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T14:56:49.938Z"}
+{"level":"debug","message":"count:  1440","timestamp":"2015-08-11T14:58:44.945Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T15:02:28.668Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T15:02:28.670Z"}
+{"level":"debug","message":"count:  1560","timestamp":"2015-08-11T15:08:45.114Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T15:08:48.743Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T15:08:48.744Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-11T15:09:41.648Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-11T15:09:41.649Z"}
+{"level":"debug","message":"count:  1680","timestamp":"2015-08-11T15:18:45.276Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-12T13:57:23.646Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-12T14:07:23.844Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-12T14:09:58.921Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-12T14:09:58.922Z"}
+{"level":"debug","message":"count:  360","timestamp":"2015-08-12T14:17:23.995Z"}
+{"level":"debug","message":"count:  480","timestamp":"2015-08-12T14:27:24.130Z"}
+{"level":"debug","message":"count:  600","timestamp":"2015-08-12T14:37:24.271Z"}
+{"level":"debug","message":"count:  720","timestamp":"2015-08-12T14:47:24.415Z"}
+{"level":"debug","message":"count:  840","timestamp":"2015-08-12T14:57:24.580Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-12T14:59:44.633Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-12T14:59:44.634Z"}
+{"level":"debug","message":"count:  960","timestamp":"2015-08-12T15:07:24.739Z"}
+{"level":"debug","message":"count:  1080","timestamp":"2015-08-12T15:17:24.873Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-12T15:23:44.968Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-12T15:23:44.969Z"}
+{"level":"debug","message":"count:  1200","timestamp":"2015-08-12T15:27:25.000Z"}
+{"level":"debug","message":"count:  1320","timestamp":"2015-08-12T15:37:25.147Z"}
+{"level":"debug","message":"count:  120","timestamp":"2015-08-13T13:19:13.597Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-13T13:20:53.648Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-13T13:20:53.649Z"}
+{"statusCode":408,"responseBody":"Request Timeout\n","statusMessage":"Request Time-out","level":"debug","timestamp":"2015-08-13T13:21:40.212Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-13T13:21:40.213Z"}
+{"level":"debug","message":"count:  240","timestamp":"2015-08-13T13:29:13.746Z"}
+{"code":"ENOTFOUND","errno":"ENOTFOUND","syscall":"getaddrinfo","hostname":"api.trello.com","level":"debug","timestamp":"2015-08-13T13:30:53.786Z"}
+{"level":"debug","message":"getActionByCardID function  has error here!!!","timestamp":"2015-08-13T13:30:53.786Z"}

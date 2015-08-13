@@ -1,0 +1,33 @@
+{
+  "name": "whatisnode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "module1.js",
+  "dependencies": {
+    "backbone": "^1.2.0",
+    "body-parser": "^1.13.1",
+    "ejs": "^2.3.1",
+    "express": "^4.13.0",
+    "gulp": "^3.9.0",
+    "mongodb": "^1.4.38",
+    "mongoose": "^3.9.7",
+    "mongoskin": "^1.4.13",
+    "morgan": "^1.6.0",
+    "npm": "^2.7.4",
+    "underscore": "^1.8.3",
+    "dateformat": "*",
+    "js-yaml": "*",
+    "request": "*",
+    "winston": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "minify": "gulp minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
