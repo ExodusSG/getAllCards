@@ -18,7 +18,9 @@
     "dateformat": "*",
     "js-yaml": "*",
     "request": "*",
-    "winston": "^1.0.1"
+    "winston": "^1.0.1",
+    "node-trello": "*",
+    "async": "*"
   },
   "devDependencies": {
     "gulp-uglify": "^1.2.0"
